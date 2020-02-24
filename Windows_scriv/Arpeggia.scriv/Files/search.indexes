@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="4">
+            <Title>Chapter</Title>
+        </Document>
+        <Document ID="6">
+            <Title>Scene</Title>
+        </Document>
+        <Document ID="8">
+            <Title>Paperback Novel</Title>
+        </Document>
+        <Document ID="9">
+            <Title>Standard Manuscript</Title>
+        </Document>
+        <Document ID="10">
+            <Title>ADE E-Book</Title>
+        </Document>
+        <Document ID="11">
+            <Title>E-Book</Title>
+        </Document>
+        <Document ID="12">
+            <Title>Novel Format</Title>
+            <Text>NOVEL FORMAT
+
+About This Template
+By default, when compiled (File &gt; Compile), this project will generate a document in the standard manuscript format for novels. The necessary settings are also provided to make it easy to compile to a paperback-style PDF for self-publishing or an EPUB or Kindle e-book.
+
+How To Use This Template
+Create a new folder for each chapter and title each folder with the name of the chapter. If you don’t intend to use chapter names, just use something descriptive that tells you what the chapter is about. (You do not need to—and indeed shouldn’t—title the folders “Chapter One” and so on, because chapter numbering will be taken care of automatically during the Compile process.) The first chapter folder has been created for you with the placeholder title “Chapter”.
+Create a new text document for each scene inside the chapter folders. (Upon export, scenes will be separated with the “#” character for standard manuscript format, or with a blank line for other formats.)
+Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder. (These are just regular folders that have had custom icons assigned to them using the Documents &gt; Change Icon feature.)
+Character and setting sketch sheets have been provided for filling out information about the people and places in your novel. These are located in the “Template Sheets” folder. You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do—you may wish to customise the sketch sheets or get rid of them entirely). Instead, to create a new character sheet, click on the Characters folder (or wherever you want to create your new character sheet) and from the Project menu, select New From Template &gt; Character Sketch. This creates a new character sketch document for you to edit and fill in with your character details. You can create setting sketch sheets in the same way.
+
+Compiling
+Title pages and front matter are all provided in the “Front Matter” folder (between the “Places” and “Research” folders). You will choose different front matter depending on the format to which you are compiling.
+Scrivener remembers your compile settings, so you only need to follow the instructions below when you want to compile to a different format. After that, you can just go to File &gt; Compile… and click the “Compile” button straight away.
+
+To compile to standard manuscript format:
+Edit the “Title Page” document inside the Front Matter/Manuscript Format folder to ensure that it contains the correct information. (The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; placeholders will be replaced during compile with the information you provide in the Project Properties tab of Project &gt; Meta-Data Settings…, or you can delete them and enter whatever text you like.)
+Go to File &gt; Compile…
+Select “Standard Manuscript Format” from the “Format As” menu button if it is not already selected.
+Expand the window to show all the compile options by clicking the blue arrow button to the right of the “Format As” menu button.
+Ensure that the “Add front matter” option is ticked and select the “Manuscript Format” folder from the menu button next to it (this is already selected by default).
+Click “Compile”.
+
+To compile to paperback PDF format:
+Edit the front matter pages contained inside the Front Matter/Paperback Novel folder.
+Go to File &gt; Compile…
+Select “Paperback Novel” from the “Format As” menu button if it is not already selected.
+Expand the window to show all the compile options by clicking the blue arrow button to the right of the “Format As” menu button.
+Ensure that the “Add front matter” button is ticked and select the “Paperback Novel” folder from the menu button next to it if it is not already selected.
+Click “Compile”.
+
+To compile to e-book format:
+Edit or remove the dedication page contained inside the Front Matter/E-Book folder. Feel free to add any other front matter documents as required.
+Import a cover image (the recommended size is 600x800 pixels, preferably in JPG or PNG format). You can store this anywhere, but it makes sense to place it in the “E-Book” front matter folder. A placeholder cover image is already provided—you will want to delete that once you have imported your own.
+Go to File &gt; Compile…
+Select “E-book (with Parts)” from the “Format As” menu button if it is not already selected.
+Expand the window to show all the compile options by clicking the blue arrow button to the right of the “Format As” menu button.
+If you have front matter documents other than the cover image, ensure that the “Add front matter” option is ticked and select the “E-Book” folder from the menu button next to it if it is not already selected. If you don’t have any front matter documents, you can un-tick “Add front matter”. (This does not affect the cover image.)
+If you have imported your own cover image, be sure to click “Cover” in the left sidebar and select the image from the “Cover Image” menu button.
+From the “Compile for” menu button, choose whether to export to EPUB or Kindle format.
+Click “Compile”.
+
+Making Changes
+There are various minor changes you can make to the settings to tweak this template so that it better suits your needs, as follows:
+Project and author name: The default book title and author name used in headers and elsewhere can be customised by going to Project &gt; Meta-Data Settings… and choosing the “Project Properties” tab.
+Chapter subtitles: If you don’t want to include the names of your chapter folders below the chapter numbering text in the compiled document, go to the “Formatting” pane in the Compile dialog and deselect “Title” in the list of elements to include.
+Page header and footer: You can edit the page header in the “Page Settings” pane of the Compile dialog.
+Page size: The “Paperback Novel” format is set to export to a page size of 5.06” x 7.81”, which is one of the formats you can use with CreateSpace. You can customise this by clicking the menu button beside “Paper Size” in the “Page Settings” pane of Compile.
+Font: You can use the “Formatting” pane in Compile to change the font used in the final document by selecting a row in the elements table, then clicking into the preview text to select it and clicking the “A” button in the format bar to change the font settings. Note that fonts are not included in e-books, however—e-readers choose their own fonts (and you would need to pay a hefty fee for a licence to embed a particular font in an e-book).
+Making your own special folders: The “Characters” and “Places” folders are really just regular folders that have been set up in a particular way, and you are free to create other folders that work in a similar manner.
+To create a folder with a custom icon, add a new folder, place it where you want it, ensure it is selected, and then go to Documents &gt; Change Icon to choose a different icon.
+To create your own template sheets, simply create a new document inside the “Template Sheets” folder and set it up however you want (whether by adding text, changing the title, setting default meta-data, or whatever). Now this document will be available as the basis of new documents from the New From Template menu. (You can add a custom icon to this if you so wish, too.)
+Working with chapters instead of scenes: By default, this project is set up so that you write each scene as a separate text document. If you don’t like to break things up quite that much and would prefer to write an entire chapter in each text document, make the following changes:
+Rename the “Scene” document to use your chapter title and move it so that it is on the same level as the “Chapter” folder rather than being inside it.
+Move the “Chapter” folder to the Trash.
+Create a new text document for each chapter.
+In the “Separators” pane of the Compile dialog, change the “Text separator” setting to “Page break”.
+If your scene separators are centred (for instance if you are using “#” as the scene separator) and you want them to appear centred in the compiled document, too, select them and choose Format &gt; Formatting &gt; Preserve Formatting.
+Everything else: The above constitutes only the most common changes. You can completely change the output format by changing the various settings available in Compile.
+
+Sample Documents
+The “Sample Output” folder inside the Research folder contains examples of documents that have been created by compiling from this template. “Standard Manuscript” shows the results when compiling to “Standard Manuscript Format”; “Paperback Novel” shows the results when compiling to “Paperback Novel” format; and “ADE E-book” shows the results when compiling to “E-book” format and opening the resulting EPUB file in Adobe Digital Editions on Windows.
+
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template, and you can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
+        </Document>
+        <Document ID="13">
+            <Title>Paperback Novel</Title>
+        </Document>
+        <Document ID="14">
+            <Title>Manuscript Format</Title>
+        </Document>
+        <Document ID="16">
+            <Title>Dedication</Title>
+            <Text>
+
+
+
+
+
+
+
+
+
+
+Insert dedication here.</Text>
+            <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="17">
+            <Title>Characters</Title>
+        </Document>
+        <Document ID="18">
+            <Title>Places</Title>
+        </Document>
+        <Document ID="19">
+            <Title>Copyright</Title>
+            <Text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © year &lt;$fullname&gt;
+All rights reserved.
+ISBN:
+ISBN-13:</Text>
+            <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="20">
+            <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="21">
+            <Title>Title Page</Title>
+            <Text>
+
+
+
+
+
+
+
+&lt;$PROJECTTITLE&gt;
+
+&lt;$fullname&gt;</Text>
+            <Notes>These tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether.</Notes>
+        </Document>
+        <Document ID="22">
+            <Title>Dedication</Title>
+            <Text>
+
+
+
+
+Your dedication here.</Text>
+            <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="23">
+            <Title>Cover</Title>
+        </Document>
+        <Document ID="24">
+            <Title>Setting Sketch</Title>
+            <Text>Name of Setting
+
+		Role in Story:	
+
+		Related Characters:	
+
+		Season:	
+
+		Unique Features:	
+
+		Description:	
+
+		Sights:	
+		Sounds:	
+		Smells:	
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="25">
+            <Title>Character Sketch</Title>
+            <Text>Character Name
+
+		Role in Story:	
+
+		Occupation:	
+     	
+
+		Physical Description:	
+
+		Personality:	
+
+		Habits/Mannerisms:	
+      	
+
+		Background:	
+
+		Internal Conflicts:	
+
+		External Conflicts:	 
+      	
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="29">
+            <Title>Front Matter</Title>
+        </Document>
+        <Document ID="39">
+            <Title>Sample Output</Title>
+        </Document>
+        <Document ID="40">
+            <Title>Title Page</Title>
+        </Document>
+    </Documents>
+</SearchIndexes>
