@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="03BA1BD4-212E-409F-A80D-74CE02EEBD63" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="Gavroche" Author="David Stitt" Modified="2020-05-17 13:07:53 -0400" ModID="64DF307D-597D-4187-B0D8-B0CAC8FD4023">
+<ScrivenerProject Identifier="03BA1BD4-212E-409F-A80D-74CE02EEBD63" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="Gavroche" Author="David Stitt" Modified="2020-08-29 09:56:48 -0400" ModID="5AE7FB48-1F9B-4264-90EF-C431B918D270">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2020-05-17 12:20:59 -0400" Modified="2020-05-17 12:27:58 -0400">
             <Title>Novel Format</Title>
@@ -181,7 +181,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1960,15</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="161C6DA3-E8C3-487C-B56C-9AFEE08D846A" Type="Text" Created="2020-03-17 18:39:08 -0400" Modified="2020-04-13 15:22:12 -0400">
@@ -315,9 +315,16 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>92A1870F-72F0-4340-AFC7-86A603B04759</SelectedSubdocumentUUIDs>
+                        <OutlinerExpandedState>
+                            <ItemID>423BE343-DC38-4244-8BCB-A424A5A8DBDE</ItemID>
+                            <ItemID>92A1870F-72F0-4340-AFC7-86A603B04759</ItemID>
+                        </OutlinerExpandedState>
+                    </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem UUID="423BE343-DC38-4244-8BCB-A424A5A8DBDE" Type="Folder" Created="2019-12-17 07:39:21 -0500" Modified="2019-12-17 07:40:45 -0500">
-                            <Title>Chapter</Title>
+                        <BinderItem UUID="423BE343-DC38-4244-8BCB-A424A5A8DBDE" Type="Folder" Created="2019-12-17 07:39:21 -0500" Modified="2020-07-22 17:21:02 -0400">
+                            <Title>Chapter a</Title>
                             <MetaData>
                                 <SectionType>5770D705-B9A4-4798-AAB1-B2C56190B02E</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -326,13 +333,13 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="B37CA7AB-656D-4A99-B4CD-8D5051E3C8CC" Type="Text" Created="2019-12-17 07:40:53 -0500" Modified="2019-12-19 09:35:52 -0500">
+                                <BinderItem UUID="B37CA7AB-656D-4A99-B4CD-8D5051E3C8CC" Type="Text" Created="2019-12-17 07:40:53 -0500" Modified="2020-07-22 19:31:01 -0400">
                                     <Title>Waleran's Rest</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>7061,0</TextSelection>
+                                        <TextSelection>6952,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -370,6 +377,37 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem UUID="C9476C29-A438-456B-B6D8-CEDD3A0D64C0" Type="Folder" Created="2020-07-22 19:12:11 -0400" Modified="2020-07-22 19:12:25 -0400">
+                    <Title>The Conflagration</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="92A1870F-72F0-4340-AFC7-86A603B04759" Type="Folder" Created="2020-07-22 17:20:37 -0400" Modified="2020-07-22 17:20:58 -0400">
+                            <Title>Chapter x</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="F29AFA0B-3322-418E-ADA8-59BA2DE2F787" Type="Text" Created="2020-07-22 17:21:10 -0400" Modified="2020-07-22 19:31:45 -0400">
+                                    <Title>Panda's Appeal</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>7064,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="06C0455C-36DD-4F38-BB7B-F7DD2453A8A5" Type="Folder" Created="2020-05-17 12:20:59 -0400" Modified="2020-05-17 12:20:59 -0400">
@@ -383,322 +421,1160 @@
             </TextSettings>
             <DefaultChildTemplateUUID>BE948F87-BDA3-4551-8E08-AC248FE89301</DefaultChildTemplateUUID>
             <Children>
-                <BinderItem UUID="A47AE1BD-045A-46A0-BAEB-0FEBA57F77F6" Type="Text" Created="2019-10-07 13:15:58 -0400" Modified="2019-10-14 14:10:48 -0400">
-                    <Title>Barfalot</Title>
+                <BinderItem UUID="DE6AFE38-2202-491D-963D-CFB72BD5DD8A" Type="Folder" Created="2020-07-04 17:01:43 -0400" Modified="2020-07-04 17:01:47 -0400">
+                    <Title>Main Characters</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Characters (Photo)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>A47AE1BD-045A-46A0-BAEB-0FEBA57F77F6,6E074D55-9E11-4568-BA41-4BC7C18F6C9C,83C3C9C7-8F99-4B1B-8E9E-6CADDE5D6E0D,939B7C13-217E-47C0-9491-5914EADEE6DE,EAA07325-7521-4A9C-B8C2-6930FF19AB4D,67B05C3C-17F2-4DBA-9F2B-017F9680929B,D10C6ECB-8E14-4474-9981-A351B4058020,AEFCFE1A-69CC-4980-91EE-691D7CA81F70,100953BF-A95C-445D-91AA-FE6BE48D605A,D3203265-CD9E-4E88-9DAA-058F379EAD7A,E8108237-9005-4401-AA4C-03B0743D0B31,9B877EBD-156D-4833-812C-20F93E97D178,E09C608D-D6C8-431F-A5B7-86858D6C74BE,0029E62B-7DF4-4735-84A4-13641D18156F,239C8074-8445-4F93-98EA-853D94CCAB41</SelectedSubdocumentUUIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="A47AE1BD-045A-46A0-BAEB-0FEBA57F77F6" Type="Text" Created="2019-10-07 13:15:58 -0400" Modified="2020-08-18 17:55:52 -0400">
+                            <Title>Barfalot</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3385,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="6E074D55-9E11-4568-BA41-4BC7C18F6C9C" Type="Text" Created="2019-12-17 09:24:28 -0500" Modified="2020-08-18 18:05:27 -0400">
+                            <Title>Kahrn</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2791,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="83C3C9C7-8F99-4B1B-8E9E-6CADDE5D6E0D" Type="Text" Created="2019-12-17 10:12:09 -0500" Modified="2020-08-18 18:05:03 -0400">
+                            <Title>Kam</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2184,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="939B7C13-217E-47C0-9491-5914EADEE6DE" Type="Text" Created="2019-12-21 14:44:15 -0500" Modified="2020-08-18 18:07:02 -0400">
+                            <Title>Iohane</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>919,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="EAA07325-7521-4A9C-B8C2-6930FF19AB4D" Type="Text" Created="2019-12-21 14:45:45 -0500" Modified="2020-08-18 18:16:39 -0400">
+                            <Title>Henqu</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2757,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="67B05C3C-17F2-4DBA-9F2B-017F9680929B" Type="Text" Created="2019-12-19 09:36:07 -0500" Modified="2020-08-18 18:32:46 -0400">
+                            <Title>Waleran</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2990,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D10C6ECB-8E14-4474-9981-A351B4058020" Type="Text" Created="2019-12-21 10:25:22 -0500" Modified="2020-08-18 18:44:37 -0400">
+                            <Title>Morning Thunder</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3103,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="AEFCFE1A-69CC-4980-91EE-691D7CA81F70" Type="Text" Created="2019-12-21 10:55:05 -0500" Modified="2020-08-18 18:49:18 -0400">
+                            <Title>Birakay</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5970,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="100953BF-A95C-445D-91AA-FE6BE48D605A" Type="Text" Created="2019-12-22 15:57:47 -0500" Modified="2019-12-22 16:07:47 -0500">
+                            <Title>Allane</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1317,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D3203265-CD9E-4E88-9DAA-058F379EAD7A" Type="Text" Created="2020-03-14 08:34:40 -0400" Modified="2020-08-18 18:58:09 -0400">
+                            <Title>Mikel Moballeq</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3155,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E8108237-9005-4401-AA4C-03B0743D0B31" Type="Text" Created="2020-03-15 09:23:09 -0400" Modified="2020-08-18 19:01:19 -0400">
+                            <Title>Azron Gurdon</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1352,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="9B877EBD-156D-4833-812C-20F93E97D178" Type="Text" Created="2020-03-16 09:56:54 -0400" Modified="2020-08-18 19:21:52 -0400">
+                            <Title>Bucky Rogers</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2673,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E09C608D-D6C8-431F-A5B7-86858D6C74BE" Type="Text" Created="2020-03-16 10:54:52 -0400" Modified="2020-08-18 19:24:09 -0400">
+                            <Title>Monmar Massachawa</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2200,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="0029E62B-7DF4-4735-84A4-13641D18156F" Type="Text" Created="2020-03-16 12:33:13 -0400" Modified="2020-08-18 19:31:42 -0400">
+                            <Title>Showan Beaver-Wing</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5828,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="239C8074-8445-4F93-98EA-853D94CCAB41" Type="Text" Created="2020-07-05 09:42:19 -0400" Modified="2020-08-18 19:34:02 -0400">
+                            <Title>PB</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2457,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="022548D7-1DBE-4AEC-96DC-785B1BDFC2D5" Type="Folder" Created="2020-07-04 17:01:55 -0400" Modified="2020-07-04 17:02:02 -0400">
+                    <Title>Secondary Characters</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Characters (Photo)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>0CE6A0E8-F512-45E9-86EC-8120CBE51BBF</SelectedSubdocumentUUIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="C0A61B32-6324-4801-AA2A-6FDA324E2930" Type="Text" Created="2019-10-07 13:15:58 -0400" Modified="2020-08-18 19:35:41 -0400">
+                            <Title>Kirill Geckter</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3673,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="3D85806F-5AEA-4628-8524-ED230CA4F5B3" Type="Text" Created="2019-12-17 10:34:22 -0500" Modified="2020-08-18 19:39:12 -0400">
+                            <Title>Gallex</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2600,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F639A2F1-4300-4BF5-9277-6B2DBFBB218D" Type="Text" Created="2019-12-19 08:32:54 -0500" Modified="2020-08-18 19:44:01 -0400">
+                            <Title>Roís</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1759,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="961AE6EC-AE43-41FE-AAFC-7DA603406A5B" Type="Text" Created="2019-12-19 08:50:26 -0500" Modified="2020-08-18 19:45:46 -0400">
+                            <Title>Mur'ray</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2423,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="4DBE96CE-B7C1-450B-ADE2-0CCC19E32B4A" Type="Text" Created="2019-12-20 09:14:08 -0500" Modified="2020-08-18 19:48:13 -0400">
+                            <Title>Luvcando</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1961,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8A23911C-40B9-4424-A653-B553D1D2DE7E" Type="Text" Created="2019-12-20 13:20:06 -0500" Modified="2020-08-18 19:50:03 -0400">
+                            <Title>Lohrn</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2160,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="1C06F5BD-DE5D-4DBC-8DD1-6F1F494C223D" Type="Text" Created="2019-12-20 13:47:28 -0500" Modified="2020-08-18 19:55:13 -0400">
+                            <Title>Otto Trucent</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2684,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="72701ED2-F373-4F45-B023-0BF05E063017" Type="Text" Created="2019-12-22 15:43:02 -0500" Modified="2019-12-22 15:49:55 -0500">
+                            <Title>Qu'rub</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>797,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="99F2932B-E626-455D-B17C-4E3049F3D5CC" Type="Text" Created="2019-12-22 15:50:21 -0500" Modified="2019-12-22 15:56:38 -0500">
+                            <Title>Bu'ruq</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>877,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="7D8323E8-507B-49F0-969C-74F680123023" Type="Text" Created="2019-12-22 16:21:53 -0500" Modified="2020-08-18 19:57:10 -0400">
+                            <Title>Zadane</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>916,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="610713F6-A419-4C6E-AD75-2A716F2B820E" Type="Text" Created="2020-02-03 10:15:48 -0500" Modified="2020-08-18 19:57:51 -0400">
+                            <Title>Ramona</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>384,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E2EE4BAE-DB72-4193-AC6E-B0623E2E49A8" Type="Text" Created="2020-03-16 11:28:27 -0400" Modified="2020-08-18 19:59:21 -0400">
+                            <Title>Calley Coola</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1516,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="48656FC0-5BF6-44E9-9A6B-5A4A905AB875" Type="Text" Created="2020-03-16 11:40:12 -0400" Modified="2020-08-18 20:01:05 -0400">
+                            <Title>Jesse K</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2233,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="0F9B0A73-117C-4372-AF9E-F8BA4ED66A3D" Type="Text" Created="2020-07-04 18:04:57 -0400" Modified="2020-07-04 18:08:29 -0400">
+                            <Title>Barq of the Rob-Eye</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>386,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="4D56AC43-BB10-4654-984F-2B728D51AB59" Type="Text" Created="2020-07-04 18:08:52 -0400" Modified="2020-08-18 20:02:11 -0400">
+                            <Title>Cereb</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>381,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="6992FC1E-98EB-4B54-BD78-B87944905C63" Type="Text" Created="2020-07-04 20:13:54 -0400" Modified="2020-07-04 20:15:57 -0400">
+                            <Title>Guilford "Gil" Tractacus</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>279,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="675DA34D-29C1-4DCF-9FA2-A8CD891790F0" Type="Text" Created="2020-07-04 20:17:54 -0400" Modified="2020-08-18 20:03:20 -0400">
+                            <Title>Zada</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>336,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8B796584-0FD2-4047-9609-7627C900E079" Type="Text" Created="2020-07-04 21:01:37 -0400" Modified="2020-08-18 20:03:49 -0400">
+                            <Title>Snek</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>255,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E4576CEB-0297-4733-B5FB-7FE4595D6824" Type="Text" Created="2020-07-05 08:19:31 -0400" Modified="2020-08-18 20:06:13 -0400">
+                            <Title>Remanj Jexan</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2178,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="91D490EA-BC25-421F-A661-29AE087FD2BF" Type="Text" Created="2020-07-05 08:32:06 -0400" Modified="2020-07-05 08:35:52 -0400">
+                            <Title>Rollo of the Dexelites</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>452,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8BDC2A21-374A-4A46-89B8-52AD7816BC93" Type="Text" Created="2020-07-05 10:11:14 -0400" Modified="2020-07-05 10:29:30 -0400">
+                            <Title>Dex and Biff</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2520,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="0CE6A0E8-F512-45E9-86EC-8120CBE51BBF" Type="Text" Created="2020-08-18 19:36:52 -0400" Modified="2020-08-18 19:37:27 -0400">
+                            <Title>Mother Hare</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>107,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="B2517805-CCE7-4267-9AB0-2E9F20108873" Type="Folder" Created="2020-07-04 17:01:15 -0400" Modified="2020-07-04 17:01:30 -0400">
+                    <Title>Groups and Organizations</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>3C2F0FC5-B45D-40CC-B4DD-9DCEBD6D96C2</SelectedSubdocumentUUIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="65A566B7-AD6C-4D40-8C32-B758811865A8" Type="Text" Created="2020-04-14 17:30:24 -0400" Modified="2020-04-14 17:56:17 -0400">
+                            <Title>Comrades of the Old Mill Cooperative</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3291,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="83BC8CB9-B400-4E7B-A28E-1DF112056FF1" Type="Text" Created="2020-07-04 17:08:48 -0400" Modified="2020-07-04 17:10:06 -0400">
+                            <Title>Guardians of the Sun</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>187,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8D9CE637-3BC5-461C-BEB3-B65EF353C17C" Type="Text" Created="2020-07-04 17:10:16 -0400" Modified="2020-07-04 17:10:28 -0400">
+                            <Title>Helioptic Brooders Guild</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="0750D26D-1E0E-44B2-878D-F04FE2C681D1" Type="Text" Created="2020-07-04 17:10:34 -0400" Modified="2020-07-04 17:10:47 -0400">
+                            <Title>Helioptic Mining Company</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="EB183D2E-59F4-42B4-BBB0-1B627B5EDA56" Type="Text" Created="2020-07-04 17:10:54 -0400" Modified="2020-07-04 17:11:10 -0400">
+                            <Title>Scribes of the Noon-Day Sun</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F83DA22E-E8FB-4F12-8A18-A0D42EAFD4AF" Type="Text" Created="2020-07-04 17:11:22 -0400" Modified="2020-07-04 17:11:44 -0400">
+                            <Title>Jewellers Guilds of the Two Rivers</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="092CE947-0BAA-4821-8FC4-57FBBBA02BE5" Type="Text" Created="2020-07-04 17:11:58 -0400" Modified="2020-07-04 17:12:32 -0400">
+                            <Title>Confederation of Southern Herbalists</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="FF904461-D6AD-4CD2-92BF-05C21EB69E6E" Type="Text" Created="2020-07-04 17:12:43 -0400" Modified="2020-07-04 17:16:09 -0400">
+                            <Title>Engineers for the Saskan Folks</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="57B3167E-48C2-4BD9-AEA1-08AC65BBEDE2" Type="Text" Created="2020-07-04 17:16:14 -0400" Modified="2020-07-04 17:16:35 -0400">
+                            <Title>Saskantinon Tailors Guild</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F269437B-ED7A-40F0-9F24-AF3682AC9C32" Type="Text" Created="2020-07-04 17:16:41 -0400" Modified="2020-07-04 17:17:05 -0400">
+                            <Title>Rider Arms</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="3769CFCD-2EC3-4409-B209-D6CCC4981BBE" Type="Text" Created="2020-07-04 17:17:10 -0400" Modified="2020-07-04 17:17:47 -0400">
+                            <Title>The Riders Union</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="70B06DE4-5842-4CAE-AC32-F33ECDCEF7BE" Type="Text" Created="2020-07-04 17:17:55 -0400" Modified="2020-07-04 17:19:26 -0400">
+                            <Title>Bordeelan Mining Cooperatives</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D204225F-C0F3-4B3A-8D6A-49E5E99EF93F" Type="Text" Created="2020-07-04 17:20:10 -0400" Modified="2020-07-04 17:20:28 -0400">
+                            <Title>Free Brooders Service Guild</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A2694428-C113-4FA3-8EA2-7B41DF817066" Type="Text" Created="2020-07-04 17:20:36 -0400" Modified="2020-07-04 17:20:53 -0400">
+                            <Title>The House of the Wind Riders</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="32E9D94E-4EAC-4BE7-8E6F-5C3D9600E34F" Type="Text" Created="2020-07-04 17:21:02 -0400" Modified="2020-07-04 17:21:16 -0400">
+                            <Title>Free and Independent Scribes Guild</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="81709A75-0A44-48B3-BBEF-1B6D8C0808DD" Type="Text" Created="2020-07-04 17:21:27 -0400" Modified="2020-07-04 17:21:41 -0400">
+                            <Title>Herders and Hunters Cooperative</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D1B7AEA5-1AF4-4BA2-AD59-FA36C922B893" Type="Text" Created="2020-07-04 17:21:52 -0400" Modified="2020-07-04 17:33:25 -0400">
+                            <Title>Maker-Builders Federated Unions</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D5407123-1E6E-449E-80E7-5F23A8853210" Type="Text" Created="2020-07-04 17:22:25 -0400" Modified="2020-07-04 17:23:58 -0400">
+                            <Title>Poteen Spirit Makers and Distributors</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8274E75A-E03D-4292-87BC-AD70425205A1" Type="Text" Created="2020-07-04 17:24:15 -0400" Modified="2020-07-04 17:24:29 -0400">
+                            <Title>S'lah Makers of Saskantinon</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="B77E56D6-6B37-4351-9436-02CBDFD1ADD7" Type="Text" Created="2020-07-04 17:24:45 -0400" Modified="2020-07-04 17:25:38 -0400">
+                            <Title>Walking Workers of the Great Ring</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="EC580E5A-9DEF-45FC-B43B-6BE25DA1090C" Type="Text" Created="2020-07-04 17:26:22 -0400" Modified="2020-07-04 17:27:18 -0400">
+                            <Title>Helioptic Food Slingers Guild</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="14E63C30-E47D-485D-8AF3-536CCFCF7BE9" Type="Text" Created="2020-07-04 17:27:24 -0400" Modified="2020-07-04 17:28:12 -0400">
+                            <Title>Food Slingers of the Barbo</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="EF8C38D2-ADFF-4E32-AB0D-8340DC725FFB" Type="Text" Created="2020-07-04 17:28:21 -0400" Modified="2020-07-04 17:29:20 -0400">
+                            <Title>Rider Cooks</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="08974F72-6CCE-4042-8F99-DE0B9BEAB003" Type="Text" Created="2020-07-04 17:36:15 -0400" Modified="2020-07-04 17:53:27 -0400">
+                            <Title>Rebel Bands and Organizations</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="57EDCFF3-E635-4F82-A731-5C9CC12215F0" Type="Text" Created="2020-07-04 17:36:01 -0400" Modified="2020-07-04 17:36:09 -0400">
+                            <Title>Mercenary Units</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="2BDD8719-F3A3-4DC7-9CAC-DBA734C1FDDC" Type="Text" Created="2020-07-05 08:54:05 -0400" Modified="2020-07-05 08:54:41 -0400">
+                            <Title>The Downers</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D75B6515-7E14-4552-95BA-EAD56DD2A59E" Type="Text" Created="2020-07-04 17:35:22 -0400" Modified="2020-07-04 17:35:33 -0400">
+                            <Title>Thieves Guilds</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="AEF0624D-70B6-420C-9F7B-9087A6D62F08" Type="Text" Created="2020-07-05 08:53:13 -0400" Modified="2020-07-05 08:53:46 -0400">
+                            <Title>Sailors and Sea-Farers of the Saskan Shores</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8B85C4F5-6A90-42BF-9FDD-8980268E8D4E" Type="Text" Created="2020-07-04 17:37:30 -0400" Modified="2020-07-04 17:37:39 -0400">
+                            <Title>Fishing Units</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="57FB763E-2315-45E5-B7F3-CB4AC012F100" Type="Text" Created="2020-07-04 17:29:26 -0400" Modified="2020-07-04 17:29:57 -0400">
+                            <Title>Kahila Cuisinary Artists Guild</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="CCB5FB20-4778-43A7-9632-DEC7EADD2AF4" Type="Text" Created="2020-07-04 17:37:48 -0400" Modified="2020-07-04 17:38:03 -0400">
+                            <Title>Ship-Makers</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="B97CD034-B6C2-49F8-8D82-DD3245113679" Type="Text" Created="2020-07-04 17:30:14 -0400" Modified="2020-07-04 17:31:13 -0400">
+                            <Title>Wye Cooks of the Beaver Lake</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F3322DD6-68AA-4F44-B516-33A0891F4D66" Type="Text" Created="2020-07-04 17:31:27 -0400" Modified="2020-07-04 17:31:40 -0400">
+                            <Title>Free Innkeepers Guild</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="BD7EA924-5E22-4E54-941F-428607669A71" Type="Text" Created="2020-07-04 17:36:41 -0400" Modified="2020-07-04 17:37:07 -0400">
+                            <Title>Independent Healers Association</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="4EE6F81A-05D1-409C-957A-492942D70239" Type="Text" Created="2020-07-04 17:31:46 -0400" Modified="2020-07-04 17:31:58 -0400">
+                            <Title>The Finders</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8AFE06B5-0A06-4927-9466-D5034AE8D28C" Type="Text" Created="2020-07-04 17:37:11 -0400" Modified="2020-07-04 17:37:26 -0400">
+                            <Title>Traveling Tinkers</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="5C987C3D-16E7-48BC-A5FF-1A09D42C4FA1" Type="Text" Created="2020-07-04 17:52:32 -0400" Modified="2020-07-04 17:52:44 -0400">
+                            <Title>Helioptic Center</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="96B1FD60-C763-473C-B4BE-22A399BF0EEF" Type="Text" Created="2020-07-04 18:26:24 -0400" Modified="2020-07-04 18:26:37 -0400">
+                            <Title>Bandit Gangs and Outlaws</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A019C3E9-E496-4468-9C0A-28216E7D5D7F" Type="Text" Created="2020-07-04 18:26:45 -0400" Modified="2020-07-04 18:27:00 -0400">
+                            <Title>Barbarian Units</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F277F94A-0DB1-431A-9AFB-A7F47B0C5621" Type="Text" Created="2020-07-04 17:34:27 -0400" Modified="2020-07-04 17:34:49 -0400">
+                            <Title>Actors Troupes</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="85CC5CE9-031A-4B3E-9C46-9034F396A0DF" Type="Text" Created="2020-07-04 17:32:04 -0400" Modified="2020-07-04 18:02:32 -0400">
+                            <Title>Star Gazers Academy of Terpinol</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>192,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F275B616-0E23-4751-9BFB-C1382CE37503" Type="Text" Created="2020-07-04 17:52:59 -0400" Modified="2020-07-04 18:22:08 -0400">
+                            <Title>Quasi-Religious Sects</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>186,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="0038EB41-7028-4C8D-A310-0B5430D8E012" Type="Text" Created="2020-07-04 17:52:03 -0400" Modified="2020-07-05 09:51:02 -0400">
+                            <Title>Secret Societies</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>228,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="268139AE-CF7F-4D43-9473-E9D3CBB746FA" Type="Text" Created="2020-07-04 17:35:46 -0400" Modified="2020-07-04 17:35:53 -0400">
+                            <Title>Assassins Guilds</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D828AA84-04B5-4FF1-B2C5-5DC63743A1CA" Type="Text" Created="2020-07-04 17:33:56 -0400" Modified="2020-07-04 17:34:18 -0400">
+                            <Title>The Scanners Detecting Agency</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D67FE8C7-E884-44BE-82CF-6F46F881D048" Type="Text" Created="2020-07-04 17:32:45 -0400" Modified="2020-07-04 17:33:08 -0400">
+                            <Title>Harpers and Bards of the Two Rivers</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>237,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="3C2F0FC5-B45D-40CC-B4DD-9DCEBD6D96C2" Type="Text" Created="2020-08-18 18:02:38 -0400" Modified="2020-08-18 18:03:24 -0400">
+                            <Title>Traveling Sisters of the Way of All Things</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>42,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="25E10B1E-4BC7-4F35-8D39-AFB68FB3727C" Type="Text" Created="2020-07-04 17:33:31 -0400" Modified="2020-07-05 09:48:15 -0400">
+                            <Title>Mages Guilds</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>236,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="2E4E48B6-AAA9-4FE4-98A2-9D0070623355" Type="Text" Created="2020-08-18 18:26:35 -0400" Modified="2020-08-18 18:31:35 -0400">
+                    <Title>Organization Sketch</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <ShowSynopsisImage>Yes</ShowSynopsisImage>
                         <IconFileName>Characters (Character Sheet)</IconFileName>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>34,0</TextSelection>
+                        <TextSelection>102,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="C0A61B32-6324-4801-AA2A-6FDA324E2930" Type="Text" Created="2019-10-07 13:15:58 -0400" Modified="2019-12-22 15:57:22 -0500">
-                    <Title>Kirill Geckter</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>48,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="6E074D55-9E11-4568-BA41-4BC7C18F6C9C" Type="Text" Created="2019-12-17 09:24:28 -0500" Modified="2019-12-21 14:40:26 -0500">
-                    <Title>Kahrn</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>1646,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="83C3C9C7-8F99-4B1B-8E9E-6CADDE5D6E0D" Type="Text" Created="2019-12-17 10:12:09 -0500" Modified="2019-12-17 11:04:57 -0500">
-                    <Title>Kam</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>2091,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="3D85806F-5AEA-4628-8524-ED230CA4F5B3" Type="Text" Created="2019-12-17 10:34:22 -0500" Modified="2019-12-17 11:01:06 -0500">
-                    <Title>Gallex</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>1821,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="F639A2F1-4300-4BF5-9277-6B2DBFBB218D" Type="Text" Created="2019-12-19 08:32:54 -0500" Modified="2019-12-19 08:49:59 -0500">
-                    <Title>Roís</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>48,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="961AE6EC-AE43-41FE-AAFC-7DA603406A5B" Type="Text" Created="2019-12-19 08:50:26 -0500" Modified="2019-12-19 09:10:39 -0500">
-                    <Title>Mur'ray</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>1943,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="67B05C3C-17F2-4DBA-9F2B-017F9680929B" Type="Text" Created="2019-12-19 09:36:07 -0500" Modified="2019-12-19 10:00:15 -0500">
-                    <Title>Waleran</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>426,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="4DBE96CE-B7C1-450B-ADE2-0CCC19E32B4A" Type="Text" Created="2019-12-20 09:14:08 -0500" Modified="2019-12-20 13:19:44 -0500">
-                    <Title>Luvcando</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>1914,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="8A23911C-40B9-4424-A653-B553D1D2DE7E" Type="Text" Created="2019-12-20 13:20:06 -0500" Modified="2019-12-20 13:41:53 -0500">
-                    <Title>Lohrn</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>2117,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="1C06F5BD-DE5D-4DBC-8DD1-6F1F494C223D" Type="Text" Created="2019-12-20 13:47:28 -0500" Modified="2019-12-20 14:23:49 -0500">
-                    <Title>Otto Trucent</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>259,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="D10C6ECB-8E14-4474-9981-A351B4058020" Type="Text" Created="2019-12-21 10:25:22 -0500" Modified="2019-12-21 10:53:53 -0500">
-                    <Title>Morning Thunder</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>2905,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="AEFCFE1A-69CC-4980-91EE-691D7CA81F70" Type="Text" Created="2019-12-21 10:55:05 -0500" Modified="2020-03-16 10:53:31 -0400">
-                    <Title>Birakay</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>5227,31</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="939B7C13-217E-47C0-9491-5914EADEE6DE" Type="Text" Created="2019-12-21 14:44:15 -0500" Modified="2019-12-21 15:25:39 -0500">
-                    <Title>Iohane</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>494,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="EAA07325-7521-4A9C-B8C2-6930FF19AB4D" Type="Text" Created="2019-12-21 14:45:45 -0500" Modified="2019-12-21 15:08:50 -0500">
-                    <Title>Henqu</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>290,202</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="72701ED2-F373-4F45-B023-0BF05E063017" Type="Text" Created="2019-12-22 15:43:02 -0500" Modified="2019-12-22 15:49:55 -0500">
-                    <Title>Qu'rub</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>797,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="99F2932B-E626-455D-B17C-4E3049F3D5CC" Type="Text" Created="2019-12-22 15:50:21 -0500" Modified="2019-12-22 15:56:38 -0500">
-                    <Title>Bu'ruq</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>877,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="100953BF-A95C-445D-91AA-FE6BE48D605A" Type="Text" Created="2019-12-22 15:57:47 -0500" Modified="2019-12-22 16:07:47 -0500">
-                    <Title>Allane</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>1317,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="1E2FAAE6-57F3-48A7-ADBE-BB1DBADD651D" Type="Text" Created="2019-12-22 16:08:17 -0500" Modified="2019-12-22 16:21:29 -0500">
-                    <Title>Jax</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>1794,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="7D8323E8-507B-49F0-969C-74F680123023" Type="Text" Created="2019-12-22 16:21:53 -0500" Modified="2019-12-22 16:28:51 -0500">
-                    <Title>Zadane</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>911,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="610713F6-A419-4C6E-AD75-2A716F2B820E" Type="Text" Created="2020-02-03 10:15:48 -0500" Modified="2020-02-03 10:17:56 -0500">
-                    <Title>Ramona</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>24,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="D3203265-CD9E-4E88-9DAA-058F379EAD7A" Type="Text" Created="2020-03-14 08:34:40 -0400" Modified="2020-03-14 09:06:22 -0400">
-                    <Title>Mikel</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>3702,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="E8108237-9005-4401-AA4C-03B0743D0B31" Type="Text" Created="2020-03-15 09:23:09 -0400" Modified="2020-03-15 09:38:57 -0400">
-                    <Title>Azron Gurdon</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>1833,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="9B877EBD-156D-4833-812C-20F93E97D178" Type="Text" Created="2020-03-16 09:56:54 -0400" Modified="2020-03-16 10:29:57 -0400">
-                    <Title>Bucky Rogers</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>3707,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="E09C608D-D6C8-431F-A5B7-86858D6C74BE" Type="Text" Created="2020-03-16 10:54:52 -0400" Modified="2020-04-09 10:30:34 -0400">
-                    <Title>Monikikik Margotititt Masachawa</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>3167,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="E2EE4BAE-DB72-4193-AC6E-B0623E2E49A8" Type="Text" Created="2020-03-16 11:28:27 -0400" Modified="2020-03-16 11:39:59 -0400">
-                    <Title>Calley Coola</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>418,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="48656FC0-5BF6-44E9-9A6B-5A4A905AB875" Type="Text" Created="2020-03-16 11:40:12 -0400" Modified="2020-03-16 11:58:24 -0400">
-                    <Title>Jesse K</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>1830,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="0029E62B-7DF4-4735-84A4-13641D18156F" Type="Text" Created="2020-03-16 12:33:13 -0400" Modified="2020-03-16 13:24:15 -0400">
-                    <Title>Showan Beaver-Wing</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>792,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="65A566B7-AD6C-4D40-8C32-B758811865A8" Type="Text" Created="2020-04-14 17:30:24 -0400" Modified="2020-04-14 17:56:17 -0400">
-                    <Title>Comrades of the Old Mill Cooperative</Title>
+                <BinderItem UUID="A5FB478D-8D09-40D5-93DB-C1310C91C5C0" Type="Folder" Created="2020-07-04 17:02:13 -0400" Modified="2020-07-04 17:02:17 -0400">
+                    <Title>Generic Characters</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3291,0</TextSelection>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>51943477-2364-4DB9-AF28-54054BAA0FA4</SelectedSubdocumentUUIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="1E2FAAE6-57F3-48A7-ADBE-BB1DBADD651D" Type="Text" Created="2019-12-22 16:08:17 -0500" Modified="2020-08-18 20:10:13 -0400">
+                            <Title>Jaxen</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>864,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="20DB2004-52FB-4819-8549-D240997CA55C" Type="Text" Created="2020-07-04 18:22:36 -0400" Modified="2020-07-04 18:23:39 -0400">
+                            <Title>Arns</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>185,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="077B9458-134F-463D-9AF4-93FA9CC03A37" Type="Text" Created="2020-07-04 18:23:56 -0400" Modified="2020-08-18 20:11:28 -0400">
+                            <Title>Jacks</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>258,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="B676CB4C-5B83-48D3-A203-C95224FA5B03" Type="Text" Created="2020-07-04 18:27:34 -0400" Modified="2020-07-04 18:27:43 -0400">
+                            <Title>Poor peasants and farmers</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,14</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="AD284B65-D7C7-40B8-B16E-A8E27642EF55" Type="Text" Created="2020-07-04 18:27:51 -0400" Modified="2020-07-04 18:28:04 -0400">
+                            <Title>Petty thieves and pickpockets</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,14</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E81EB321-0EDC-41D7-944F-34A78642AA89" Type="Text" Created="2020-07-04 19:42:49 -0400" Modified="2020-07-04 19:43:08 -0400">
+                            <Title>Wealthy farmers</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,14</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="6D2727CE-B863-42A8-9D9F-A6FE0AA8B019" Type="Text" Created="2020-07-04 20:09:18 -0400" Modified="2020-07-04 20:10:39 -0400">
+                            <Title>Servants of Cereb</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>263,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="EA240166-E256-4D39-82FF-2158D65B79D4" Type="Text" Created="2020-07-04 21:06:09 -0400" Modified="2020-07-04 21:15:29 -0400">
+                            <Title>Sleeths</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1545,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="FFC1EF15-625E-4876-9E57-4929054E0728" Type="Text" Created="2020-07-04 21:16:10 -0400" Modified="2020-08-18 20:15:07 -0400">
+                            <Title>Devos</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1633,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="2EA5E282-C6A2-497A-A817-9BD96265713F" Type="Text" Created="2020-07-05 08:46:52 -0400" Modified="2020-07-05 08:51:59 -0400">
+                            <Title>Seffs</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>647,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="82F47083-B5BF-4F53-BD2E-357674BF1407" Type="Text" Created="2020-07-05 09:02:32 -0400" Modified="2020-07-05 09:19:07 -0400">
+                            <Title>Fons</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1523,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="BD7D6395-5887-49CF-AADC-B87E42287F55" Type="Text" Created="2020-08-18 18:07:43 -0400" Modified="2020-08-18 20:17:25 -0400">
+                            <Title>Entropic Riders</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>232,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A9988804-878F-4F0E-AACB-D0ADF69F9CEF" Type="Text" Created="2020-08-18 18:18:46 -0400" Modified="2020-08-18 18:25:31 -0400">
+                            <Title>Terrapins</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1116,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="51943477-2364-4DB9-AF28-54054BAA0FA4" Type="Text" Created="2020-08-18 19:52:55 -0400" Modified="2020-08-18 19:54:04 -0400">
+                            <Title>Sloebeest</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>59,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -711,6 +1587,12 @@
             <TextSettings>
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>FA637585-5702-49AB-B0E1-13A9C452061D</SelectedSubdocumentUUIDs>
+                <OutlinerExpandedState>
+                    <ItemID>FA637585-5702-49AB-B0E1-13A9C452061D</ItemID>
+                </OutlinerExpandedState>
+            </CorkboardAndOutliner>
             <DefaultChildTemplateUUID>87D59B4E-F1D6-4025-9FBA-33F60ED8F985</DefaultChildTemplateUUID>
             <Children>
                 <BinderItem UUID="723310E0-5633-417B-A193-1F0121B05591" Type="Text" Created="2019-11-22 16:07:34 -0500" Modified="2019-12-15 11:11:21 -0500">
@@ -752,16 +1634,6 @@
                         <TextSelection>17798,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="1452303B-5708-4963-99D1-CCED94F0B62F" Type="Text" Created="2019-12-10 15:19:11 -0500" Modified="2019-12-15 12:45:51 -0500">
-                    <Title>Languages</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <IconFileName>Locations (Location Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>782,138</TextSelection>
-                    </TextSettings>
-                </BinderItem>
                 <BinderItem UUID="FA637585-5702-49AB-B0E1-13A9C452061D" Type="Folder" Created="2019-12-28 09:38:14 -0500" Modified="2019-12-28 10:47:55 -0500">
                     <Title>Towns &amp; Villages</Title>
                     <MetaData>
@@ -771,7 +1643,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <CorkboardAndOutliner>
-                        <SelectedSubdocumentUUIDs>6AEB2F07-6A23-42AD-B37E-A1846F08D856</SelectedSubdocumentUUIDs>
+                        <SelectedSubdocumentUUIDs>6B8F8E47-350B-48F4-93E6-3E176A0AF8EC</SelectedSubdocumentUUIDs>
                     </CorkboardAndOutliner>
                     <Children>
                         <BinderItem UUID="2A860AD8-7CB6-481A-99C3-6914F5CDE205" Type="Text" Created="2019-12-17 09:45:19 -0500" Modified="2019-12-17 10:11:31 -0500">
@@ -784,14 +1656,14 @@
                                 <TextSelection>433,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="7B810F18-BE3F-4BF6-BD13-8D2A7ED193FC" Type="Text" Created="2019-12-28 10:48:02 -0500" Modified="2019-12-28 11:25:03 -0500">
+                        <BinderItem UUID="7B810F18-BE3F-4BF6-BD13-8D2A7ED193FC" Type="Text" Created="2019-12-28 10:48:02 -0500" Modified="2020-07-04 18:04:50 -0400">
                             <Title>Scatterling in Barboskanti</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <IconFileName>Locations (Location Sheet)</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1156,0</TextSelection>
+                                <TextSelection>1232,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="E259E90B-0A88-443B-8894-5A5FCE9703DB" Type="Text" Created="2019-12-28 11:06:53 -0500" Modified="2019-12-28 11:24:27 -0500">
@@ -842,6 +1714,36 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>2302,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="4E8067DE-15CF-4584-90A3-44010EAF8A00" Type="Text" Created="2020-07-04 17:48:45 -0400" Modified="2020-07-04 17:51:36 -0400">
+                            <Title>Mizry in Norgyte</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Locations (Location Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>405,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="837E4250-B1C1-4A25-AF3E-C8DD8EE17E50" Type="Text" Created="2020-07-04 17:57:24 -0400" Modified="2020-07-04 18:00:19 -0400">
+                            <Title>Shantytown in Oobar</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Locations (Location Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>146,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="6B8F8E47-350B-48F4-93E6-3E176A0AF8EC" Type="Text" Created="2020-07-04 18:17:36 -0400" Modified="2020-07-04 18:20:59 -0400">
+                            <Title>Upton in the Komexenon</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Locations (Location Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>271,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -1038,7 +1940,20 @@
             <TextSettings>
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>3FE9756F-331C-4482-A588-EF1378B08998</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
             <Children>
+                <BinderItem UUID="1452303B-5708-4963-99D1-CCED94F0B62F" Type="Text" Created="2019-12-10 15:19:11 -0500" Modified="2019-12-15 12:45:51 -0500">
+                    <Title>Languages</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Locations (Location Sheet)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3325,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem UUID="A1B9A9A3-7E3C-41BC-A6F1-A815BABFC206" Type="Text" Created="2019-12-15 08:55:38 -0500" Modified="2019-12-15 10:56:28 -0500">
                     <Title>Story Arcs</Title>
                     <MetaData>
@@ -1048,13 +1963,13 @@
                         <TextSelection>8661,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="A0A72616-B0B2-4055-B2E0-8BCD129A22C8" Type="Text" Created="2019-12-15 08:59:21 -0500" Modified="2020-02-03 10:18:53 -0500">
+                <BinderItem UUID="A0A72616-B0B2-4055-B2E0-8BCD129A22C8" Type="Text" Created="2019-12-15 08:59:21 -0500" Modified="2020-07-05 09:02:18 -0400">
                     <Title>Words</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>371,0</TextSelection>
+                        <TextSelection>649,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="DF607E94-F260-4A51-AE2A-26AE3336A294" Type="Text" Created="2019-12-17 09:23:15 -0500" Modified="2020-02-03 08:56:03 -0500">
@@ -1075,13 +1990,13 @@
                         <TextSelection>1201,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="37B2CB21-E43F-4596-B523-8801029090D4" Type="Text" Created="2019-12-22 16:30:57 -0500" Modified="2019-12-22 16:43:38 -0500">
+                <BinderItem UUID="37B2CB21-E43F-4596-B523-8801029090D4" Type="Text" Created="2019-12-22 16:30:57 -0500" Modified="2020-07-04 19:55:39 -0400">
                     <Title>Bestiary</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1450,0</TextSelection>
+                        <TextSelection>1563,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="9A52DB04-75EB-4BD1-AF57-4FC1D2DAEE7B" Type="Text" Created="2019-12-29 10:10:51 -0500" Modified="2019-12-29 10:18:13 -0500">
@@ -1111,22 +2026,22 @@
                         <TextSelection>12099,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="FD326769-8C15-4F7A-A52D-151889C2092C" Type="Text" Created="2020-02-03 08:52:40 -0500" Modified="2020-02-03 08:55:35 -0500">
+                <BinderItem UUID="FD326769-8C15-4F7A-A52D-151889C2092C" Type="Text" Created="2020-02-03 08:52:40 -0500" Modified="2020-08-19 11:50:36 -0400">
                     <Title>Themes</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>322,0</TextSelection>
+                        <TextSelection>465,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="17D8FF0A-4EB2-4BAD-AC1A-69A1AD0998A9" Type="Text" Created="2020-02-03 08:53:18 -0500" Modified="2020-02-10 13:21:05 -0500">
+                <BinderItem UUID="17D8FF0A-4EB2-4BAD-AC1A-69A1AD0998A9" Type="Text" Created="2020-02-03 08:53:18 -0500" Modified="2020-07-04 19:57:40 -0400">
                     <Title>More Themes</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1918,0</TextSelection>
+                        <TextSelection>1984,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="DE16F645-2611-48EF-A625-E3443D1EF55F" Type="Text" Created="2020-04-26 11:27:31 -0400" Modified="2020-05-17 12:13:20 -0400">
@@ -1136,6 +2051,51 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>6024,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="8772E6AF-3B10-4E23-87DC-622177AFD4A3" Type="Text" Created="2020-07-04 18:15:18 -0400" Modified="2020-07-04 19:58:14 -0400">
+                    <Title>Helioptic Themes and Tropes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>189,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F574D74E-E7F8-4189-AEEE-00D249D1F3AF" Type="Text" Created="2020-07-04 19:58:37 -0400" Modified="2020-07-04 20:08:23 -0400">
+                    <Title>Powers</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1567,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="839FA68F-1AD2-4F29-A399-9CEA99F983F8" Type="Text" Created="2020-07-04 20:24:17 -0400" Modified="2020-07-04 20:42:34 -0400">
+                    <Title>Time</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2605,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="FA30A15B-11B7-4C95-93E7-36B2F0F0185C" Type="Text" Created="2020-08-18 18:33:31 -0400" Modified="2020-08-18 18:40:07 -0400">
+                    <Title>Enclosure and Agency</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1281,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="3FE9756F-331C-4482-A588-EF1378B08998" Type="Text" Created="2020-08-18 18:50:02 -0400" Modified="2020-08-18 18:53:58 -0400">
+                    <Title>Event in RIkila</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>763,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -1188,7 +2148,7 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <CorkboardAndOutliner>
-                <SelectedSubdocumentUUIDs>9A28A84B-9257-40BC-B519-AFE9BB6157A7</SelectedSubdocumentUUIDs>
+                <SelectedSubdocumentUUIDs>92B1C6F0-C578-413B-9CF6-E31F1C7B2262</SelectedSubdocumentUUIDs>
             </CorkboardAndOutliner>
             <Children>
                 <BinderItem UUID="BE948F87-BDA3-4551-8E08-AC248FE89301" Type="Text" Created="2020-05-17 12:20:59 -0400" Modified="2020-05-17 12:20:59 -0400">
@@ -1200,6 +2160,17 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,14</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="92B1C6F0-C578-413B-9CF6-E31F1C7B2262" Type="Text" Created="2020-05-17 12:20:59 -0400" Modified="2020-07-04 17:00:52 -0400">
+                    <Title>Organization Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>237,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="87D59B4E-F1D6-4025-9FBA-33F60ED8F985" Type="Text" Created="2020-05-17 12:20:59 -0400" Modified="2020-05-17 12:20:59 -0400">
@@ -1332,6 +2303,26 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem UUID="A9C486A0-378B-4110-BF55-BBC2BE0DC283" Type="Text" Created="2020-07-04 16:57:50 -0400" Modified="2020-07-04 16:57:57 -0400">
+                    <Title>Organization Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="6CB341DC-9BBD-42D3-9122-BFCD57622DF4" Type="Text" Created="2020-07-04 17:24:03 -0400" Modified="2020-07-04 17:24:03 -0400">
+                    <Title>Character Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,14</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -1407,14 +2398,14 @@
     </ProjectBookmarks>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-05-18 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2020-05-17 13:07:49 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-08-30 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2020-08-29 09:56:44 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-05-17 12:20:59 -0400">
+    <RecentWritingHistory Date="2020-08-29 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>26</OtherWordCount>
-        <OtherCharCount>184</OtherCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
