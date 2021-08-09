@@ -64,8 +64,8 @@
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {326, 921}}</string>
-		<string>{{327, 0}, {1180, 921}}</string>
+		<string>{{0, 0}, {311.5, 814}}</string>
+		<string>{{312.5, 0}, {1127.5, 814}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -961,8 +961,8 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {916, 891}}</string>
-		<string>{{917, 0}, {263, 891}}</string>
+		<string>{{0, 0}, {863.5, 784}}</string>
+		<string>{{864.5, 0}, {263, 784}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>263</real>
@@ -1032,7 +1032,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 668}}</string>
+	<string>{{0, 0}, {620, 582.39999999999998}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{0, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -1043,7 +1043,7 @@
 	<key>mainDocumentEditor.textMode</key>
 	<integer>0</integer>
 	<key>mainWindowFrame</key>
-	<string>230 77 1507 949 0 0 1920 1057 </string>
+	<string>-1441 131 1440 842 -1440 98 1440 875 </string>
 	<key>projectStatsSheet</key>
 	<dict>
 		<key>excludeAnnots</key>
@@ -1076,7 +1076,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>228</real>
+			<real>200</real>
 		</dict>
 	</dict>
 	<key>showInvisibles</key>

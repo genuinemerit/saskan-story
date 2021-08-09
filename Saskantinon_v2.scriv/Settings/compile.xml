@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CompileSettings Template="Yes">
+<CompileSettings>
     <ProjectSettings>
+        <Content Scope="Included">
+            <Filter State="Off" Exclude="No" Type="Label">
+                <Label>-1</Label>
+                <Status>-1</Status>
+            </Filter>
+        </Content>
+        <Options>
+            <RemoveComments>Yes</RemoveComments>
+            <RemoveAnnotations>Yes</RemoveAnnotations>
+            <ResampleImages DPI="72">No</ResampleImages>
+            <ConvertTablesAndListToMMD>Yes</ConvertTablesAndListToMMD>
+            <PDF>
+                <Cover Bleed="9.0" BleedUnits="pt"/>
+                <Compression Enabled="No">
+                    <ImageResolutionCompressionType>Set</ImageResolutionCompressionType>
+                    <ImageResolution>150</ImageResolution>
+                    <CompressionQuality>0.5</CompressionQuality>
+                </Compression>
+            </PDF>
+            <Scriptwriting>
+                <IncludeTitles>Yes</IncludeTitles>
+                <IncludeSynopses>Yes</IncludeSynopses>
+                <CommentsAsScriptNotes>Yes</CommentsAsScriptNotes>
+            </Scriptwriting>
+            <Ebook>
+                <StartAfterFrontMatter>Yes</StartAfterFrontMatter>
+                <Cover>
+                    <ImageDocument Source="FrontMatter"/>
+                    <Title>Cover</Title>
+                    <SVG Width="600" Height="800"><![CDATA[]]></SVG>
+                </Cover>
+                <TOC PandocDepth="3">
+                    <HTML Generate="Yes">
+                        <Title>Contents</Title>
+                    </HTML>
+                </TOC>
+            </Ebook>
+        </Options>
         <MetaData>
+            <ProjectTitle>Saskantinon</ProjectTitle>
+            <ProjectAbbreviatedTitle>Saskantinon</ProjectAbbreviatedTitle>
+            <Authors>
+                <Author FileAs="Stitt, David" Role="aut">David Stitt</Author>
+            </Authors>
+            <Surname>Stitt</Surname>
+            <Forename>David</Forename>
+            <EbookLanguage>en</EbookLanguage>
+            <FountainTitlePageMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </FountainTitlePageMetaData>
             <MMDMetaData>
                 <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
                 <Value Key="Author"><![CDATA[<$author>]]></Value>
@@ -9,6 +59,7 @@
             </MMDMetaData>
         </MetaData>
     </ProjectSettings>
+    <CurrentFileType>Print</CurrentFileType>
     <FormatSettings>
         <Format ID="outline-document">
             <SectionLayouts>
@@ -32,9 +83,6 @@
                 <Type ID="4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D">D1848966-5D15-4080-B5FA-EDC5063123B0</Type>
                 <Type ID="C256170C-9607-4380-B84A-86A34F8D32A4">2289666E-F1A8-4BEE-BE77-272E828818C9</Type>
             </SectionLayouts>
-            <FrontAndBackMatter>
-                <DefaultFrontMatter Add="Yes">3E5B46A7-2D74-46C0-9C84-D3D1B9EB378E</DefaultFrontMatter>
-            </FrontAndBackMatter>
         </Format>
         <Format ID="mmd-latex-custom-modern">
             <SectionLayouts>
@@ -61,9 +109,6 @@
                 <Type ID="65D1D6C9-09DA-44D4-9379-DC47D8BEA312">AS-IS</Type>
                 <Type ID="8CA56ABC-1675-44AC-B5C5-FCFBC0C6E87D">AS-IS</Type>
             </SectionLayouts>
-            <FrontAndBackMatter>
-                <DefaultFrontMatter Add="Yes">4D01D8EC-C1C3-427E-88C0-602D9158FC95</DefaultFrontMatter>
-            </FrontAndBackMatter>
         </Format>
         <Format ID="paperback-novel">
             <SectionLayouts>
@@ -75,9 +120,6 @@
                 <Type ID="4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D">D1848966-5D15-4080-B5FA-EDC5063123B0</Type>
                 <Type ID="C256170C-9607-4380-B84A-86A34F8D32A4">45C71E28-DB3C-4ED8-8E8C-D85E64C375FC</Type>
             </SectionLayouts>
-            <FrontAndBackMatter>
-                <DefaultFrontMatter Add="Yes">4D01D8EC-C1C3-427E-88C0-602D9158FC95</DefaultFrontMatter>
-            </FrontAndBackMatter>
         </Format>
         <Format ID="plain-txt-ms">
             <SectionLayouts>
@@ -132,9 +174,6 @@
                 <Type ID="4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D">D1848966-5D15-4080-B5FA-EDC5063123B0</Type>
                 <Type ID="C256170C-9607-4380-B84A-86A34F8D32A4">88F2B131-1FD2-44AC-939A-63497F405036</Type>
             </SectionLayouts>
-            <FrontAndBackMatter>
-                <DefaultFrontMatter Add="Yes">3E5B46A7-2D74-46C0-9C84-D3D1B9EB378E</DefaultFrontMatter>
-            </FrontAndBackMatter>
         </Format>
         <Format ID="576763A8-BDCE-4175-9463-92BAF8EC137B">
             <SectionLayouts>
@@ -144,9 +183,6 @@
                 <Type ID="9AFECE21-8C79-45E0-9B9F-D6D62A9729D3">TEXT-SECTION</Type>
                 <Type ID="43E36834-0351-4480-800E-BD855CB4DD05">ADE4552B-9EA1-4CB2-AEC1-128519E875A9</Type>
             </SectionLayouts>
-            <FrontAndBackMatter>
-                <DefaultFrontMatter Add="Yes">4D01D8EC-C1C3-427E-88C0-602D9158FC95</DefaultFrontMatter>
-            </FrontAndBackMatter>
         </Format>
         <Format ID="plain-text-screenplay">
             <SectionLayouts>
@@ -245,9 +281,6 @@
                 <Type ID="65D1D6C9-09DA-44D4-9379-DC47D8BEA312">ACC6AE6C-1881-4B48-9013-3C729011A2C1</Type>
                 <Type ID="8CA56ABC-1675-44AC-B5C5-FCFBC0C6E87D">AS-IS</Type>
             </SectionLayouts>
-            <FrontAndBackMatter>
-                <DefaultFrontMatter Add="Yes">4C4363AD-1F58-4140-A55F-DEE1298CA1C4</DefaultFrontMatter>
-            </FrontAndBackMatter>
         </Format>
         <Format ID="ebook-screenplay">
             <SectionLayouts>
@@ -282,9 +315,6 @@
                 <Type ID="65D1D6C9-09DA-44D4-9379-DC47D8BEA312">6F69FF25-7EEC-4A26-87B5-42134BCCFDF3</Type>
                 <Type ID="8CA56ABC-1675-44AC-B5C5-FCFBC0C6E87D">AS-IS</Type>
             </SectionLayouts>
-            <FrontAndBackMatter>
-                <DefaultFrontMatter Add="Yes">4C4363AD-1F58-4140-A55F-DEE1298CA1C4</DefaultFrontMatter>
-            </FrontAndBackMatter>
         </Format>
         <Format ID="markdown-outline">
             <SectionLayouts>
@@ -313,25 +343,24 @@
             </SectionLayouts>
         </Format>
     </FormatSettings>
-    <CurrentFileType>Print</CurrentFileType>
     <LastUsedFormats>
         <Print>manuscript-times</Print>
-        <html>DEFAULT</html>
-        <rtf>DEFAULT</rtf>
+        <docx>manuscript-times</docx>
+        <Fountain>script-screenplay</Fountain>
         <kf8>e-book</kf8>
-        <epub3>e-book</epub3>
+        <mmd-odf>enumerated-outline</mmd-odf>
         <fdx>script-screenplay</fdx>
-        <mmd>mmd-barebones</mmd>
         <mmd-odt>DEFAULT</mmd-odt>
+        <epub3>e-book</epub3>
         <txt>plain-txt-ms</txt>
         <pdf>manuscript-times</pdf>
-        <mmd-odf>enumerated-outline</mmd-odf>
+        <mmd>mmd-barebones</mmd>
         <mobi>e-book-legacy</mobi>
         <epub2>e-book-legacy</epub2>
         <mmd-pdf>mmd-latex-book</mmd-pdf>
+        <html>DEFAULT</html>
         <mmd-latex>mmd-latex-book</mmd-latex>
         <odt>DEFAULT</odt>
-        <docx>manuscript-times</docx>
-        <Fountain>script-screenplay</Fountain>
+        <rtf>DEFAULT</rtf>
     </LastUsedFormats>
 </CompileSettings>
