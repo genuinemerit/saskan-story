@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="03BA1BD4-212E-409F-A80D-74CE02EEBD63" Version="2.0" Creator="SCRMAC-3.2.2-14633" Device="Gavroche" Author="David Stitt" Modified="2021-07-07 18:50:59 -0400" ModID="FF756E2E-ABF7-4666-9761-90FFE3C179FD">
+<ScrivenerProject Identifier="03BA1BD4-212E-409F-A80D-74CE02EEBD63" Version="2.0" Creator="SCRMAC-3.2.3-14868" Device="Davids-MacBook-Pro" Author="" Modified="2022-05-05 16:14:58 -0400" ModID="168DA434-D7AD-49DC-9B36-4D5C6506A230">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2020-05-17 12:20:59 -0400" Modified="2020-05-17 12:27:58 -0400">
             <Title>Novel Format</Title>
@@ -2330,7 +2330,7 @@
         <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.112547 0.112547 0.112547">
             <Title>Binder</Title>
         </Collection>
-        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.190667 0.172702 0.216529">
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.190666 0.172707 0.216531">
             <Title>Search Results</Title>
         </Collection>
     </Collections>
@@ -2398,10 +2398,10 @@
     </ProjectBookmarks>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2021-07-08 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2021-07-07 18:50:51 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2022-05-06 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2022-05-05 16:14:44 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2021-07-07 00:00:00 -0400">
+    <RecentWritingHistory Date="2022-05-05 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
