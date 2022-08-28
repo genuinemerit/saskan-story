@@ -9,5 +9,24 @@
     <Day dwc="0" dcc="0" dtwc="24423" owc="47" occ="281" dtcc="146115">2022-04-18</Day>
     <Day dwc="0" dcc="0" dtwc="24423" owc="151" occ="1186" dtcc="146115">2022-05-03</Day>
     <Day dwc="69" dcc="379" dtwc="0" owc="-75" occ="-379" dtcc="0">2022-05-05</Day>
-    <Day dwc="674" dcc="3847" owc="302" occ="1884">2022-05-06</Day>
+    <Day dwc="674" dcc="3847" dtwc="0" owc="302" occ="1884" dtcc="0">2022-05-06</Day>
+    <Day dwc="0" dcc="0" dtwc="0" owc="-14" occ="-56" dtcc="0">2022-05-20</Day>
+    <Day dwc="0" dcc="0" dtwc="0" owc="95" occ="642" dtcc="0">2022-05-21</Day>
+    <Day dwc="0" dcc="-4" dtwc="0" owc="2079" occ="12888" dtcc="0">2022-05-23</Day>
+    <Day dwc="0" dcc="1" dtwc="0" owc="2124" occ="12616" dtcc="0">2022-05-24</Day>
+    <Day dwc="0" dcc="0" dtwc="0" owc="912" occ="5252" dtcc="0">2022-05-25</Day>
+    <Day dwc="0" dcc="0" dtwc="0" owc="393" occ="2309" dtcc="0">2022-05-26</Day>
+    <Day dwc="-2" dcc="2" dtwc="0" owc="908" occ="5829" dtcc="0">2022-05-28</Day>
+    <Day dwc="246" dcc="1585" dtwc="27489" owc="1036" occ="6893" dtcc="164703">2022-06-10</Day>
+    <Day dwc="695" dcc="4447" dtwc="0" owc="1210" occ="7404" dtcc="0">2022-06-11</Day>
+    <Day dwc="1955" dcc="11687" dtwc="0" owc="91" occ="537" dtcc="0">2022-06-12</Day>
+    <Day dwc="0" dcc="0" dtwc="0" owc="473" occ="2824" dtcc="0">2022-06-13</Day>
+    <Day dwc="34" dcc="306" dtwc="0" owc="327" occ="1837" dtcc="0">2022-07-16</Day>
+    <Day dwc="8" dcc="47" dtwc="0" owc="2752" occ="16896" dtcc="0">2022-07-31</Day>
+    <Day dwc="0" dcc="0" dtwc="0" owc="386" occ="2453" dtcc="0">2022-08-01</Day>
+    <Day dwc="0" dcc="0" dtwc="0" owc="654" occ="4060" dtcc="0">2022-08-02</Day>
+    <Day dwc="0" dcc="0" dtwc="0" owc="170" occ="1082" dtcc="0">2022-08-22</Day>
+    <Day dwc="0" dcc="0" dtwc="0" owc="971" occ="6064" dtcc="0">2022-08-23</Day>
+    <Day dwc="0" dcc="0" dtwc="0" owc="33" occ="203" dtcc="0">2022-08-24</Day>
+    <Day dwc="0" dcc="0" owc="44" occ="244">2022-08-26</Day>
 </WritingHistory>
