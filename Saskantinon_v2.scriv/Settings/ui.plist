@@ -79,8 +79,8 @@
 	<false/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {371, 852}}</string>
-		<string>{{372, 0}, {1042, 852}}</string>
+		<string>{{0, 0}, {263, 931}}</string>
+		<string>{{264, 0}, {1144, 931}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -220,6 +220,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>0A847783-FD62-46F7-9256-E7D6540F0087</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>0B0B996B-7853-4BDA-A042-AF7755708DE8</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -855,6 +860,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>4FDB4105-8063-4F33-9DF8-BC54B7C4CFE0</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>517DC328-2D3D-487D-B335-75ADCEDC3813</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -1898,8 +1908,10 @@
 		</dict>
 		<key>B29DBDF6-9CF4-4A79-917D-6F6255382176</key>
 		<dict>
+			<key>DocID</key>
+			<string>0625FEA7-9F41-4AD0-860C-EC3D854978F3</string>
 			<key>Row</key>
-			<integer>-1</integer>
+			<integer>0</integer>
 		</dict>
 		<key>B37CA7AB-656D-4A99-B4CD-8D5051E3C8CC</key>
 		<dict>
@@ -2236,6 +2248,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>D8C0CA2D-5527-4E3F-824A-661E93A93D05</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>D8C522DC-7BCA-43DA-9702-48D86357655B</key>
 		<dict>
 			<key>Row</key>
@@ -2556,6 +2573,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>F9095343-8412-40DD-A0EE-10B81A9FA493</key>
 		<dict>
 			<key>Row</key>
@@ -2678,7 +2700,7 @@
 	<false/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{356, 0}, {355, 667}}</string>
+		<string>{{697, 0}, {697.5, 1005}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>0</integer>
@@ -2729,8 +2751,8 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {780, 822}}</string>
-		<string>{{781, 0}, {261, 822}}</string>
+		<string>{{0, 0}, {883, 901}}</string>
+		<string>{{884, 0}, {260, 901}}</string>
 	</array>
 	<key>inspectorSynopsisIsCollapsed</key>
 	<false/>
@@ -3668,7 +3690,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {612, 612.79999999999995}}</string>
+	<string>{{0, 0}, {606, 294}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{465, 0}</string>
 	<key>mainDocumentEditor.sizeToFit</key>
@@ -3695,7 +3717,7 @@
 	<key>mainDocumentView</key>
 	<string>mainDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>-1643 116 1414 880 -1920 -40 1920 1055 </string>
+	<string>-1673 22 1408 959 -1920 -40 1920 1055 </string>
 	<key>projectStatsSheet</key>
 	<dict>
 		<key>excludeAnnots</key>
@@ -3848,7 +3870,7 @@
 	<key>supportingDocumentEditor.outlinerShowsTitlesOnly</key>
 	<false/>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {606, 294}}</string>
+	<string>{{0, 0}, {619.99999999999989, 768.18181818181813}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>supportingDocumentEditor.selectedItemUUIDs</key>
@@ -3859,20 +3881,8 @@
 	<true/>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
-		<key>hasMultiplePages</key>
-		<false/>
-		<key>isRulerVisible</key>
-		<false/>
-		<key>lineNumberingInterval</key>
-		<integer>1</integer>
-		<key>showsLineNumbers</key>
-		<false/>
 		<key>textScaleFactor</key>
-		<real>1</real>
-		<key>usesFacingPages</key>
-		<false/>
-		<key>usesTypewriterScrolling</key>
-		<false/>
+		<real>1.1000000000000001</real>
 	</dict>
 	<key>supportingDocumentEditor.textMode</key>
 	<integer>0</integer>
