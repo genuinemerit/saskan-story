@@ -1,0 +1,51 @@
+{
+    "Smalli Witchcraft  (1)": {
+        "name": "Smalli Witchcraft ( 1)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Witchcraft  (2)": {
+        "name": "Smalli Witchcraft ( 2)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Witchcraft  (3)": {
+        "name": "Smalli Witchcraft ( 3)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Witchcraft  (4)": {
+        "name": "Smalli Witchcraft ( 4)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Witchcraft  (5)": {
+        "name": "Smalli Witchcraft ( 5)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Witchcraft  (6)": {
+        "name": "Smalli Witchcraft ( 6)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Witchcraft  (7)": {
+        "name": "Smalli Witchcraft ( 7)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    }
+}

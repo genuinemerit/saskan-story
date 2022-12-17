@@ -1,0 +1,583 @@
+{
+    "building - 2 side rect": {
+        "name": "Building - 2 Side Rect",
+        "radius": 26,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - 2 side small": {
+        "name": "Building - 2 Side Small",
+        "radius": 29,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - 2 side tiny": {
+        "name": "Building - 2 Side Tiny",
+        "radius": 25,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - 4 side small": {
+        "name": "Building - 4 Side Small",
+        "radius": 28,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - 5 side": {
+        "name": "Building - 5 Side",
+        "radius": 73,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - angles 1": {
+        "name": "Building - Angles 1",
+        "radius": 44,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - angles 2": {
+        "name": "Building - Angles 2",
+        "radius": 44,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - b shape": {
+        "name": "Building - B Shape",
+        "radius": 42,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - curves": {
+        "name": "Building - Curves",
+        "radius": 68,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - hex - big": {
+        "name": "Building - Hex - Big",
+        "radius": 82,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - hex - flat top - big": {
+        "name": "Building - Hex - Flat Top - Big",
+        "radius": 40,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - hex - long": {
+        "name": "Building - Hex - Long",
+        "radius": 60,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - hex - small": {
+        "name": "Building - Hex - Small",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - hex nut": {
+        "name": "Building - Hex Nut",
+        "radius": 68,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Building - L -  thick": {
+        "name": "Building - L - Thick",
+        "radius": 101,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Building - L -  thin": {
+        "name": "Building - L - Thin",
+        "radius": 103,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - L - mixed": {
+        "name": "Building - L - Mixed",
+        "radius": 53,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - long T": {
+        "name": "Building - Long T",
+        "radius": 29,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - octogon": {
+        "name": "Building - Octogon",
+        "radius": 62,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - rancher": {
+        "name": "Building - Rancher",
+        "radius": 81,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - Rect - 2 side - small": {
+        "name": "Building - Rect - 2 Side - Small",
+        "radius": 47,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - rect - 4 side - small": {
+        "name": "Building - Rect - 4 Side - Small",
+        "radius": 46,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - rect - flat top": {
+        "name": "Building - Rect - Flat Top",
+        "radius": 47,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - rect - open middle": {
+        "name": "Building - Rect - Open Middle",
+        "radius": 115,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - rect 1": {
+        "name": "Building - Rect 1",
+        "radius": 47,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - rect small": {
+        "name": "Building - Rect Small",
+        "radius": 27,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - round - large": {
+        "name": "Building - Round - Large",
+        "radius": 73,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - round - medium": {
+        "name": "Building - Round - Medium",
+        "radius": 57,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - round - small": {
+        "name": "Building - Round - Small",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - short T": {
+        "name": "Building - Short T",
+        "radius": 29,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - short thick L": {
+        "name": "Building - Short Thick L",
+        "radius": 47,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - special": {
+        "name": "Building - Special",
+        "radius": 55,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - spoke - open middle": {
+        "name": "Building - Spoke - Open Middle",
+        "radius": 119,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - spoke": {
+        "name": "Building - Spoke",
+        "radius": 121,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - sq -  4 side": {
+        "name": "Building - Sq - 4 Side",
+        "radius": 64,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - Sq - 2 side- small": {
+        "name": "Building - Sq - 2 Side- Small",
+        "radius": 64,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - sq - flat top": {
+        "name": "Building - Sq - Flat Top",
+        "radius": 60,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - sq - open center": {
+        "name": "Building - Sq - Open Center",
+        "radius": 80,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - star": {
+        "name": "Building - Star",
+        "radius": 89,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - T - thick": {
+        "name": "Building - T - Thick",
+        "radius": 102,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - thin - 2 side - long": {
+        "name": "Building - Thin - 2 Side - Long",
+        "radius": 20,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - tri sq": {
+        "name": "Building - Tri Sq",
+        "radius": 47,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - triangular": {
+        "name": "Building - Triangular",
+        "radius": 46,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - U - mixed": {
+        "name": "Building - U - Mixed",
+        "radius": 80,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - U - thick": {
+        "name": "Building - U - Thick",
+        "radius": 103,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "chimney - agrd": {
+        "name": "Chimney - Agrd",
+        "radius": 19,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "chimney - new": {
+        "name": "Chimney - New",
+        "radius": 19,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "door 1": {
+        "name": "Door 1",
+        "radius": 8,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "door 2": {
+        "name": "Door 2",
+        "radius": 10,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "door 3": {
+        "name": "Door 3",
+        "radius": 14,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "door 4": {
+        "name": "Door 4",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "door 5": {
+        "name": "Door 5",
+        "radius": 12,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "door 6": {
+        "name": "Door 6",
+        "radius": 12,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "door 7": {
+        "name": "Door 7",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "extension - rect - 4 side - small": {
+        "name": "Extension - Rect - 4 Side - Small",
+        "radius": 46,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Extension - thick L - middle": {
+        "name": "Extension - Thick L - Middle",
+        "radius": 42,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Extension - thick L end": {
+        "name": "Extension - Thick L End",
+        "radius": 42,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Extension - thick L": {
+        "name": "Extension - Thick L",
+        "radius": 42,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Extension - thin - 2 side - end": {
+        "name": "Extension - Thin - 2 Side - End",
+        "radius": 20,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Extension - thin - 2 side - middle": {
+        "name": "Extension - Thin - 2 Side - Middle",
+        "radius": 20,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Extension - thin - 2 side": {
+        "name": "Extension - Thin - 2 Side",
+        "radius": 20,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Extension - thin L - middle": {
+        "name": "Extension - Thin L - Middle",
+        "radius": 21,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Extension - thin L end": {
+        "name": "Extension - Thin L End",
+        "radius": 20,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Extension - thin L": {
+        "name": "Extension - Thin L",
+        "radius": 20,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "window - round": {
+        "name": "Window - Round",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "window 1": {
+        "name": "Window 1",
+        "radius": 11,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "window 2": {
+        "name": "Window 2",
+        "radius": 21,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - small angles": {
+        "name": "Building - Small Angles",
+        "radius": 26,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "extension - building cap": {
+        "name": "Extension - Building Cap",
+        "radius": 26,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - hut 1": {
+        "name": "Building - Hut 1",
+        "radius": 28,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - hut 2": {
+        "name": "Building - Hut 2",
+        "radius": 27,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - L alt 2": {
+        "name": "Building - L Alt 2",
+        "radius": 52,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - L alt 3": {
+        "name": "Building - L Alt 3",
+        "radius": 52,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - L alt": {
+        "name": "Building - L Alt",
+        "radius": 65,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - long alt": {
+        "name": "Building - Long Alt",
+        "radius": 29,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - sq alt 1": {
+        "name": "Building - Sq Alt 1",
+        "radius": 29,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - sq alt 2": {
+        "name": "Building - Sq Alt 2",
+        "radius": 27,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - T alt": {
+        "name": "Building - T Alt",
+        "radius": 55,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "chimney - ext": {
+        "name": "Chimney - Ext",
+        "radius": 8,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - 4 windows": {
+        "name": "Building - 4 Windows",
+        "radius": 53,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - small L": {
+        "name": "Building - Small L",
+        "radius": 55,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - sq with addition": {
+        "name": "Building - Sq With Addition",
+        "radius": 47,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building - front portico": {
+        "name": "Building - Front Portico",
+        "radius": 82,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    }
+}

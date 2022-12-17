@@ -1,0 +1,65 @@
+{
+    "Smalli Roman ": {
+        "name": "Smalli Roman",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Roman Soldier (1)": {
+        "name": "Smalli Roman Soldier ( 1)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Roman Soldier (2)": {
+        "name": "Smalli Roman Soldier ( 2)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Roman Soldier (3)": {
+        "name": "Smalli Roman Soldier ( 3)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Roman Soldier (4)": {
+        "name": "Smalli Roman Soldier ( 4)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Roman Soldier (5)": {
+        "name": "Smalli Roman Soldier ( 5)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Roman Soldier (6)": {
+        "name": "Smalli Roman Soldier ( 6)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Roman Bearer (1)": {
+        "name": "Smalli Roman Bearer ( 1)",
+        "radius": 29,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Roman Bearer (2)": {
+        "name": "Smalli Roman Bearer ( 2)",
+        "radius": 25,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    }
+}

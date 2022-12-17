@@ -1,0 +1,39 @@
+{
+    "basicInformation": {
+        "name": "deltagiac - Hand-drawn Pack",
+        "version": "1.0",
+        "author": {
+            "exists": true,
+            "name": "deltagiac",
+            "mail": "deltagiac@gmail.com",
+            "url": false,
+            "donationURL": false
+        },
+        "distributor": {
+            "exists": true,
+            "name": "deltagiac",
+            "mail": "deltagiac@gmail.com",
+            "url": false,
+            "donationURL": false
+        },
+        "tagLine": "A pack containing; 17 types of trees, 3 types of vegitation, and 4 types of mountains and hills.",
+        "downloadURL": false,
+        "commercialUse": true,
+        "commercialURL": false,
+        "license": {
+            "hasLicense": true,
+            "type": "CC BY 4.0",
+            "localFile": false,
+            "externalLink": true,
+            "commentary": false
+        },
+        "tags": [
+            "terrain",
+            "mountains",
+            "trees",
+            "vegetation",
+            "stylized",
+            "colorable"
+        ]
+    }
+}

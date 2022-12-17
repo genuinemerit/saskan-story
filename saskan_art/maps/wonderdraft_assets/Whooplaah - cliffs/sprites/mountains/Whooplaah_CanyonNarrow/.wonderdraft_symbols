@@ -1,0 +1,7 @@
+{
+    "name": "Canyon Narrow L",
+    "radius": 75,
+    "offset_x": 75,
+    "offset_y": 20,
+    "draw_mode": "sample_color"
+}

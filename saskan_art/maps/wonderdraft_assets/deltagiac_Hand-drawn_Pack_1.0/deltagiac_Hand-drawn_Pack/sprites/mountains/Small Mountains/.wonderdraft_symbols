@@ -1,0 +1,7 @@
+{
+    "name": "Small Mountains",
+    "radius": 30,
+    "offset_x": 0,
+    "offset_y": 0,
+    "draw_mode": "sample_color"
+}

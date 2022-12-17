@@ -1,0 +1,38 @@
+{
+   "basicInformation": {
+      "name": "Smalli - Asia",
+      "version": "1.0",
+      "author":{
+         "exists": true,
+         "name": "Nexoness",
+         "mail": false,
+         "url": "https://www.cartographyassets.com/members/nexoness.1/#resources",
+         "donationURL": "https://www.patreon.com/cartographyassets"
+      },
+      "distributor":{
+         "exists": false,
+         "name": false,
+         "mail": false,
+         "url": false,
+         "donationURL": false
+      },
+      "tagLine": "Smalli is a complete asset pack with everything you need to create a good (and cute) looking map.",
+      "downloadURL": false,
+      "commercialUse": true,
+      "commercialURL": false,
+      "license": {
+         "hasLicense": true,
+         "type": "CC-BY-ND-NC 4.0",
+         "localFile": false,
+         "externalLink": false,
+         "commentary": false
+      },
+      "tags": [
+         "pack",
+         "people",
+         "asia",
+         "complete",
+         "smalli"
+      ]     
+   }
+}

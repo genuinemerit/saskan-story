@@ -1,0 +1,107 @@
+{
+    "eastwest-no-seam": {
+        "name": "Eastwest-no-seam",
+        "radius": 9,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "eastwest": {
+        "name": "Eastwest",
+        "radius": 9,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "guard": {
+        "name": "Guard",
+        "radius": 57,
+        "offset_x": 0,
+        "offset_y": -110,
+        "draw_mode": "normal"
+    },
+    "northsouth-no-seam": {
+        "name": "Northsouth-no-seam",
+        "radius": 41,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "northsouth": {
+        "name": "Northsouth",
+        "radius": 41,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "northsouthgate-door": {
+        "name": "Northsouthgate-door",
+        "radius": 43,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "northsouthgate-nodoor": {
+        "name": "Northsouthgate-nodoor",
+        "radius": 42,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "southeast-door": {
+        "name": "Southeast-door",
+        "radius": 106,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "southeast-no-seam": {
+        "name": "Southeast-no-seam",
+        "radius": 98,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "southeast-nodoor": {
+        "name": "Southeast-nodoor",
+        "radius": 99,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "southeast": {
+        "name": "Southeast",
+        "radius": 98,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "southwest-door": {
+        "name": "Southwest-door",
+        "radius": 106,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "southwest-no-seam": {
+        "name": "Southwest-no-seam",
+        "radius": 98,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "southwest-nodoor": {
+        "name": "Southwest-nodoor",
+        "radius": 99,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "southwest": {
+        "name": "Southwest",
+        "radius": 98,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    }
+}

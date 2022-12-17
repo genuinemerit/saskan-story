@@ -1,0 +1,51 @@
+{
+    "Banner": {
+        "name": "Banner",
+        "radius": 87,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Compass Rose": {
+        "name": "Compass Rose",
+        "radius": 358,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Icon, banner, 1": {
+        "name": "Icon, Banner, 1",
+        "radius": 43,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Icon, banner, 2": {
+        "name": "Icon, Banner, 2",
+        "radius": 43,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Icon, banner, 3": {
+        "name": "Icon, Banner, 3",
+        "radius": 43,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Tree, huge": {
+        "name": "Tree, Huge",
+        "radius": 183,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Tree, small": {
+        "name": "Tree, Small",
+        "radius": 58,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    }
+}

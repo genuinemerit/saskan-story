@@ -1,0 +1,7 @@
+{
+    "name": "Bay Trees",
+    "radius": 33,
+    "offset_x": 0,
+    "offset_y": -1,
+    "draw_mode": "sample_color"
+}

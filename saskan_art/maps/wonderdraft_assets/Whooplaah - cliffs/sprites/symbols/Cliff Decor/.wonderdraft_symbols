@@ -1,0 +1,93 @@
+{
+    "Cliff Stairs 0": {
+        "name": "Cliff Stairs 0",
+        "radius": 56,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Cliff Cave 0": {
+        "name": "Cliff Cave 0",
+        "radius": 56,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Cliff Cave 1": {
+        "name": "Cliff Cave 1",
+        "radius": 56,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Cliff Stairs 1": {
+        "name": "Cliff Stairs 1",
+        "radius": 56,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Cliff Stairs 2": {
+        "name": "Cliff Stairs 2",
+        "radius": 56,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Cliff Stairs 3": {
+        "name": "Cliff Stairs 3",
+        "radius": 56,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Landslide 0": {
+        "name": "Landslide 0",
+        "radius": 56,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Landslide 1": {
+        "name": "Landslide 1",
+        "radius": 56,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Landslide 2": {
+        "name": "Landslide 2",
+        "radius": 56,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Cliff Stairs 4": {
+        "name": "Cliff Stairs 4",
+        "radius": 56,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Cliff Stairs 5": {
+        "name": "Cliff Stairs 5",
+        "radius": 56,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Landslide 3": {
+        "name": "Landslide 3",
+        "radius": 56,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "Landslide 4": {
+        "name": "Landslide 4",
+        "radius": 56,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    }
+}

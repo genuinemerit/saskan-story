@@ -1,0 +1,7 @@
+{
+    "name": "Pine Trees",
+    "radius": 127,
+    "offset_x": 0,
+    "offset_y": -47,
+    "draw_mode": "normal"
+}

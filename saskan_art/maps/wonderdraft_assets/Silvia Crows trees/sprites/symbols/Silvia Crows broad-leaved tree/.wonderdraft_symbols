@@ -1,0 +1,130 @@
+{
+    "tree": {
+        "name": "Tree",
+        "radius": 165,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "tree2": {
+        "name": "Tree 2",
+        "radius": 169,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "tree3": {
+        "name": "Tree 3",
+        "radius": 160,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "tree4": {
+        "name": "Tree 4",
+        "radius": 163,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "tree5": {
+        "name": "Tree 5",
+        "radius": 152,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "tree6": {
+        "name": "Tree 6",
+        "radius": 172,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "tree7": {
+        "name": "Tree 7",
+        "radius": 169,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "tree8": {
+        "name": "Tree 8",
+        "radius": 159,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "tree9": {
+        "name": "Tree 9",
+        "radius": 161,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "tree - fall": {
+        "name": "Tree - Fall",
+        "radius": 165,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "tree2 - fall": {
+        "name": "Tree 2 - Fall",
+        "radius": 169,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "tree3 - fall": {
+        "name": "Tree 3 - Fall",
+        "radius": 160,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "tree4 - fall": {
+        "name": "Tree 4 - Fall",
+        "radius": 163,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "tree5 - fall": {
+        "name": "Tree 5 - Fall",
+        "radius": 152,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "tree6 - fall": {
+        "name": "Tree 6 - Fall",
+        "radius": 172,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "tree7 - fall": {
+        "name": "Tree 7 - Fall",
+        "radius": 169,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "tree8 - fall": {
+        "name": "Tree 8 - Fall",
+        "radius": 159,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "tree9 - fall": {
+        "name": "Tree 9 - Fall",
+        "radius": 161,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+   
+    }
+}

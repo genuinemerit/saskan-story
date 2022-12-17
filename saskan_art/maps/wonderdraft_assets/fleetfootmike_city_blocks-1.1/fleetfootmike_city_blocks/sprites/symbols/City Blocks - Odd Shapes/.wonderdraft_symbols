@@ -1,0 +1,86 @@
+{
+    "angled 1": {
+        "name": "Angled 1",
+        "radius": 165,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "angled 3": {
+        "name": "Angled 3",
+        "radius": 257,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "angled 2": {
+        "name": "Angled 2",
+        "radius": 257,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "angled 4": {
+        "name": "Angled 4",
+        "radius": 197,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "row 1": {
+        "name": "Row 1",
+        "radius": 42,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "row 2": {
+        "name": "Row 2",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "row 3": {
+        "name": "Row 3",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "row 4": {
+        "name": "Row 4",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "half 2": {
+        "name": "Half 2",
+        "radius": 121,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "half 1": {
+        "name": "Half 1",
+        "radius": 121,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "quarter 2": {
+        "name": "Quarter 2",
+        "radius": 118,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "quarter 1": {
+        "name": "Quarter 1",
+        "radius": 107,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    }
+}

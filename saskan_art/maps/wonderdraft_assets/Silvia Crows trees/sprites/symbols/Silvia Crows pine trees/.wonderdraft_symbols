@@ -1,0 +1,58 @@
+{
+    "pine": {
+        "name": "Pine",
+        "radius": 156,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "pine2": {
+        "name": "Pine 2",
+        "radius": 167,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "pine3": {
+        "name": "Pine 3",
+        "radius": 171,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "pine4": {
+        "name": "Pine 4",
+        "radius": 157,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "pine - snow": {
+        "name": "Pine - Snow",
+        "radius": 156,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "pine2 - snow": {
+        "name": "Pine 2 - Snow",
+        "radius": 167,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "pine3 - snow": {
+        "name": "Pine 3 - Snow",
+        "radius": 171,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "pine4 - snow": {
+        "name": "Pine 4 - Snow",
+        "radius": 157,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    }
+}

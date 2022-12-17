@@ -1,0 +1,44 @@
+{
+    "Icon, arrow": {
+        "name": "Icon, Arrow",
+        "radius": 47,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Icon, circle": {
+        "name": "Icon, Circle",
+        "radius": 47,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Icon, cross": {
+        "name": "Icon, Cross",
+        "radius": 47,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Icon, flag": {
+        "name": "Icon, Flag",
+        "radius": 47,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Icon, pin": {
+        "name": "Icon, Pin",
+        "radius": 47,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Icon, square": {
+        "name": "Icon, Square",
+        "radius": 47,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    }
+}

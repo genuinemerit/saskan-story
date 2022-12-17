@@ -1,0 +1,7 @@
+{
+    "name": "Fir Trees",
+    "radius": 30,
+    "offset_x": 0,
+    "offset_y": -40,
+    "draw_mode": "sample_color"
+}

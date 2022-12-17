@@ -1,0 +1,7 @@
+{
+    "name": "Cypress Trees",
+    "radius": 14,
+    "offset_x": 0,
+    "offset_y": -25,
+    "draw_mode": "sample_color"
+}

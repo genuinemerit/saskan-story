@@ -1,0 +1,219 @@
+{
+    "Smalli Market Goods (1)": {
+        "name": "Smalli Market Goods ( 1)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Market Goods (2)": {
+        "name": "Smalli Market Goods ( 2)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Market Goods (3)": {
+        "name": "Smalli Market Goods ( 3)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Market Goods (4)": {
+        "name": "Smalli Market Goods ( 4)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Market Goods (5)": {
+        "name": "Smalli Market Goods ( 5)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Market Goods (6)": {
+        "name": "Smalli Market Goods ( 6)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Market Goods (7)": {
+        "name": "Smalli Market Goods ( 7)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Market Goods (8)": {
+        "name": "Smalli Market Goods ( 8)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Market Goods (9)": {
+        "name": "Smalli Market Goods ( 9)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Market Stalls (1)": {
+        "name": "Smalli Market Stalls ( 1)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Market Stalls (2)": {
+        "name": "Smalli Market Stalls ( 2)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Market Stalls (3)": {
+        "name": "Smalli Market Stalls ( 3)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Market Stalls (4)": {
+        "name": "Smalli Market Stalls ( 4)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Market Stalls (5)": {
+        "name": "Smalli Market Stalls ( 5)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Market Stalls (6)": {
+        "name": "Smalli Market Stalls ( 6)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Market Stalls (7)": {
+        "name": "Smalli Market Stalls ( 7)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Market Stalls (8)": {
+        "name": "Smalli Market Stalls ( 8)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Market Storage (1)": {
+        "name": "Smalli Market Storage ( 1)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Market Storage (2)": {
+        "name": "Smalli Market Storage ( 2)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Market Storage (3)": {
+        "name": "Smalli Market Storage ( 3)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Pit (1)": {
+        "name": "Smalli Pit ( 1)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Pit (2)": {
+        "name": "Smalli Pit ( 2)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Tools (1)": {
+        "name": "Smalli Tools ( 1)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Weapons (1)": {
+        "name": "Smalli Weapons ( 1)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Weapons (2)": {
+        "name": "Smalli Weapons ( 2)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Market Goods (10)": {
+        "name": "Smalli Market Goods ( 10)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Market Goods (11)": {
+        "name": "Smalli Market Goods ( 11)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Market Goods (12)": {
+        "name": "Smalli Market Goods ( 12)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Market Goods (13)": {
+        "name": "Smalli Market Goods ( 13)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Market Goods (14)": {
+        "name": "Smalli Market Goods ( 14)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Market Goods (15)": {
+        "name": "Smalli Market Goods ( 15)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    }
+}

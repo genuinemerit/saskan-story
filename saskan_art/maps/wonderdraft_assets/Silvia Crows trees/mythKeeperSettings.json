@@ -1,0 +1,41 @@
+{
+    "basicInformation": {
+        "name": "Silvia Crow - walls",
+        "version": "2.0",
+        "author": {
+            "exists": true,
+            "name": "Silvia_Crow",
+            "mail": "silvercrowsmap@gmail.com",
+            "url": false,
+            "donationURL": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=9HC9WTPUPAYAQ&currency_code=DKK&source=url"
+        },
+        "distributor": {
+            "exists": true,
+            "name": "Silvia Crow",
+            "mail": "silvercrowsmap@gmail.com",
+            "url": false,
+            "donationURL": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=9HC9WTPUPAYAQ&currency_code=DKK&source=url"
+        },
+        "tagLine": "A wall pack containing a number of walls in a style close to watabous.",
+        "downloadURL": "https://drive.google.com/uc?export=download&id=1DE2o_82EPLcDV62yf_Dhx-X6kUZZyJVP",
+        "commercialUse": true,
+        "commercialURL": false,
+        "license": {
+            "hasLicense": true,
+            "type": "CC BY 4.0",
+            "localFile": false,
+            "externalLink": true,
+            "commentary": true
+        },
+        "tags": [
+            "walls",
+            "stylized",
+            "colorable",
+            "non-colorable"
+        ]
+    },
+    "vendors": {
+        "cartographyassetsID": 127,
+        "cartographyassetsVersion": 1554459561
+    }
+}

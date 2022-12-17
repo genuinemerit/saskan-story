@@ -1,0 +1,30 @@
+{
+    "Settlement, castle, 1": {
+        "name": "Settlement, Castle, 1",
+        "radius": 152,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, castle, 2": {
+        "name": "Settlement, Castle, 2",
+        "radius": 159,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, castle, 3": {
+        "name": "Settlement, Castle, 3",
+        "radius": 113,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, castle, 4": {
+        "name": "Settlement, Castle, 4",
+        "radius": 95,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    }
+}

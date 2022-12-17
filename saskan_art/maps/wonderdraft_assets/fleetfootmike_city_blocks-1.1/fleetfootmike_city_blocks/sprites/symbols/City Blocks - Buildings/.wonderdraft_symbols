@@ -1,0 +1,156 @@
+{
+    "building 1": {
+        "name": "Building 1",
+        "radius": 150,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "building 2": {
+        "name": "Building 2",
+        "radius": 151,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "walled 5": {
+        "name": "Walled 5",
+        "radius": 114,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "walled 4": {
+        "name": "Walled 4",
+        "radius": 114,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "walled 1": {
+        "name": "Walled 1",
+        "radius": 114,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "walled 3": {
+        "name": "Walled 3",
+        "radius": 114,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "walled 2": {
+        "name": "Walled 2",
+        "radius": 114,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "arena 1": {
+        "name": "Arena 1",
+        "radius": 185,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "arena 2": {
+        "name": "Arena 2",
+        "radius": 269,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "complex 2": {
+        "name": "Complex 2",
+        "radius": 247,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "complex 3": {
+        "name": "Complex 3",
+        "radius": 247,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "complex 1": {
+        "name": "Complex 1",
+        "radius": 247,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "complex 4": {
+        "name": "Complex 4",
+        "radius": 247,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "complex 5": {
+        "name": "Complex 5",
+        "radius": 247,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "complex 6": {
+        "name": "Complex 6",
+        "radius": 255,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "castle 1": {
+        "name": "Castle 1",
+        "radius": 286,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "castle 3": {
+        "name": "Castle 3",
+        "radius": 284,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "castle 2": {
+        "name": "Castle 2",
+        "radius": 299,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "warehouse 1": {
+        "name": "Warehouse 1",
+        "radius": 127,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "warehouse 3": {
+        "name": "Warehouse 3",
+        "radius": 127,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "warehouse 2": {
+        "name": "Warehouse 2",
+        "radius": 127,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "warehouse 4": {
+        "name": "Warehouse 4",
+        "radius": 127,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    }
+}

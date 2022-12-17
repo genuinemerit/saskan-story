@@ -1,0 +1,7 @@
+{
+    "name": "Short Grass",
+    "radius": 10,
+    "offset_x": 0,
+    "offset_y": -7,
+    "draw_mode": "sample_color"
+}

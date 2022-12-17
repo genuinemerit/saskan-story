@@ -1,0 +1,44 @@
+{
+    "Smalli Animal": {
+        "name": "Smalli Animal",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Cavalry  (1)": {
+        "name": "Smalli Cavalry ( 1)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Cavalry  (3)": {
+        "name": "Smalli Cavalry ( 3)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Cavalry  (4)": {
+        "name": "Smalli Cavalry ( 4)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Cavalry  (5)": {
+        "name": "Smalli Cavalry ( 5)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Cavalry (5)": {
+        "name": "Smalli Cavalry ( 5)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "Smalli Elite  (1)": {
+        "name": "Smalli Elite ( 1)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Elite  (2)": {
+        "name": "Smalli Elite ( 2)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Elite  (3)": {
+        "name": "Smalli Elite ( 3)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Elite  (4)": {
+        "name": "Smalli Elite ( 4)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Elite  (5)": {
+        "name": "Smalli Elite ( 5)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Elite  (6)": {
+        "name": "Smalli Elite ( 6)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Elite  (7)": {
+        "name": "Smalli Elite ( 7)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Elite  (8)": {
+        "name": "Smalli Elite ( 8)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Kings Council  (1)": {
+        "name": "Smalli Kings Council ( 1)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Kings Council  (2)": {
+        "name": "Smalli Kings Council ( 2)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    }
+}

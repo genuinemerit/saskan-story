@@ -1,0 +1,149 @@
+{
+    "Settlement, building, 1": {
+        "name": "Settlement, Building, 1",
+        "radius": 60,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, building, 2": {
+        "name": "Settlement, Building, 2",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, building, 3": {
+        "name": "Settlement, Building, 3",
+        "radius": 50,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, building, 4": {
+        "name": "Settlement, Building, 4",
+        "radius": 66,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, building, 5": {
+        "name": "Settlement, Building, 5",
+        "radius": 50,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, building, 6": {
+        "name": "Settlement, Building, 6",
+        "radius": 60,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, building, 7": {
+        "name": "Settlement, Building, 7",
+        "radius": 72,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, building, 8": {
+        "name": "Settlement, Building, 8",
+        "radius": 64,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, camp, 3": {
+        "name": "Settlement, Camp, 3",
+        "radius": 70,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, camp, 4": {
+        "name": "Settlement, Camp, 4",
+        "radius": 39,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, dwarf gate": {
+        "name": "Settlement, Dwarf Gate",
+        "radius": 55,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, harbor, small": {
+        "name": "Settlement, Harbor, Small",
+        "radius": 66,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, pyramid": {
+        "name": "Settlement, Pyramid",
+        "radius": 59,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, shrine": {
+        "name": "Settlement, Shrine",
+        "radius": 64,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, tower, 1": {
+        "name": "Settlement, Tower, 1",
+        "radius": 62,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, tower, 2": {
+        "name": "Settlement, Tower, 2",
+        "radius": 68,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, tower, 3": {
+        "name": "Settlement, Tower, 3",
+        "radius": 66,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, ziggurat": {
+        "name": "Settlement, Ziggurat",
+        "radius": 110,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Ship, 1": {
+        "name": "Ship, 1",
+        "radius": 115,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Ship, 2": {
+        "name": "Ship, 2",
+        "radius": 82,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Wagon": {
+        "name": "Wagon",
+        "radius": 52,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "apple": {
+        "name": "Apple",
+        "radius": 52,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "apple2": {
+        "name": "Apple 2",
+        "radius": 53,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "apple3": {
+        "name": "Apple 3",
+        "radius": 59,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "apple4": {
+        "name": "Apple 4",
+        "radius": 53,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "apple5": {
+        "name": "Apple 5",
+        "radius": 53,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "apple6": {
+        "name": "Apple 6",
+        "radius": 51,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "goldenapple": {
+        "name": "Goldenapple",
+        "radius": 52,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "goldenapple2": {
+        "name": "Goldenapple 2",
+        "radius": 53,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "goldenapple3": {
+        "name": "Goldenapple 3",
+        "radius": 59,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "goldenapple4": {
+        "name": "Goldenapple 4",
+        "radius": 53,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "goldenapple5": {
+        "name": "Goldenapple 5",
+        "radius": 53,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "goldenapple6": {
+        "name": "Goldenapple 6",
+        "radius": 51,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "manaapple": {
+        "name": "Manaapple",
+        "radius": 52,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "manaapple2": {
+        "name": "Manaapple 2",
+        "radius": 53,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "manaapple3": {
+        "name": "Manaapple 3",
+        "radius": 59,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "manaapple4": {
+        "name": "Manaapple 4",
+        "radius": 53,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "manaapple5": {
+        "name": "Manaapple 5",
+        "radius": 53,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "manaapple6": {
+        "name": "Manaapple 6",
+        "radius": 51,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "Settlement, camp, 1": {
+        "name": "Settlement, Camp, 1",
+        "radius": 91,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, camp, 2": {
+        "name": "Settlement, Camp, 2",
+        "radius": 102,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, city, 1": {
+        "name": "Settlement, City, 1",
+        "radius": 105,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, city, 2": {
+        "name": "Settlement, City, 2",
+        "radius": 96,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, city, 3": {
+        "name": "Settlement, City, 3",
+        "radius": 90,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, harbor, large": {
+        "name": "Settlement, Harbor, Large",
+        "radius": 86,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, mine": {
+        "name": "Settlement, Mine",
+        "radius": 86,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, town, 1": {
+        "name": "Settlement, Town, 1",
+        "radius": 81,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, town, 2": {
+        "name": "Settlement, Town, 2",
+        "radius": 63,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, town, 3": {
+        "name": "Settlement, Town, 3",
+        "radius": 66,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, town, 4": {
+        "name": "Settlement, Town, 4",
+        "radius": 77,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, town, farm": {
+        "name": "Settlement, Town, Farm",
+        "radius": 104,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Settlement, village": {
+        "name": "Settlement, Village",
+        "radius": 81,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    }
+}

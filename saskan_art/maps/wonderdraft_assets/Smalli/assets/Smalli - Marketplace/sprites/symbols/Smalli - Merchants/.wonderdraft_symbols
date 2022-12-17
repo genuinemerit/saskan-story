@@ -1,0 +1,30 @@
+{
+    "Smalli Merchant (1)": {
+        "name": "Smalli Merchant ( 1)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Merchant (2)": {
+        "name": "Smalli Merchant ( 2)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Merchant (3)": {
+        "name": "Smalli Merchant ( 3)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Merchant (4)": {
+        "name": "Smalli Merchant ( 4)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    }
+}

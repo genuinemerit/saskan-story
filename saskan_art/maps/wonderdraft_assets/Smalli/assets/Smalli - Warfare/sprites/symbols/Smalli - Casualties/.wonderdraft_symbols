@@ -1,0 +1,142 @@
+{
+    "Smalli Blood (1)": {
+        "name": "Smalli Blood ( 1)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Blood (2)": {
+        "name": "Smalli Blood ( 2)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Blood (3)": {
+        "name": "Smalli Blood ( 3)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Blood (4)": {
+        "name": "Smalli Blood ( 4)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Blood (5)": {
+        "name": "Smalli Blood ( 5)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Blood (6)": {
+        "name": "Smalli Blood ( 6)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Blood (7)": {
+        "name": "Smalli Blood ( 7)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Blood (8)": {
+        "name": "Smalli Blood ( 8)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Casualties  (1)": {
+        "name": "Smalli Casualties ( 1)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Casualties  (10)": {
+        "name": "Smalli Casualties ( 10)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Casualties  (11)": {
+        "name": "Smalli Casualties ( 11)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Casualties  (12)": {
+        "name": "Smalli Casualties ( 12)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Casualties  (2)": {
+        "name": "Smalli Casualties ( 2)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Casualties  (3)": {
+        "name": "Smalli Casualties ( 3)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Casualties  (4)": {
+        "name": "Smalli Casualties ( 4)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Casualties  (5)": {
+        "name": "Smalli Casualties ( 5)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Casualties  (6)": {
+        "name": "Smalli Casualties ( 6)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Casualties  (7)": {
+        "name": "Smalli Casualties ( 7)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Casualties  (8)": {
+        "name": "Smalli Casualties ( 8)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Casualties  (9)": {
+        "name": "Smalli Casualties ( 9)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    }
+}

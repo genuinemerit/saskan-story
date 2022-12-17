@@ -1,0 +1,7 @@
+{
+    "name": "Assorted Bushes",
+    "radius": 20,
+    "offset_x": 0,
+    "offset_y": -10,
+    "draw_mode": "sample_color"
+}

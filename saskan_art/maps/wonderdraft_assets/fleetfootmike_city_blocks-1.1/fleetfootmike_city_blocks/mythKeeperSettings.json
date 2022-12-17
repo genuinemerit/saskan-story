@@ -1,0 +1,39 @@
+{
+   "basicInformation": {
+      "name": "FleetfootMike - City Blocks",
+      "version": "1.1",
+      "author":{
+         "exists": true,
+         "name": "FleetfootMike",
+         "mail": "studio@the-mill-house.org,uk",
+         "url": "http://www.the-mill-house.org.uk/",
+         "donationURL": "https://paypal.me/fleetfootmike"
+      },
+      "distributor":{
+          "exists": true,
+          "name": "FleetfootMike",
+          "mail": "studio@the-mill-house.org,uk",
+          "url": "http://www.the-mill-house.org.uk/",
+          "donationURL": "https://paypal.me/fleetfootmike"
+      },
+      "tagLine": "Simple top-down city blocks for city mapping",
+      "downloadURL": "",
+      "commercialUse": true,
+      "commercialURL": "http://www.the-mill-house.org.uk/commercial-use",
+      "license": {
+         "hasLicense": true,
+         "type": "CC BY SA 4.0",
+         "localFile": false,
+         "externalLink": true,
+         "commentary": true
+      },
+      "tags": [
+         "city-symbols",
+         "city",
+         "town",
+         "top-down",
+         "simple",
+         "colorable"
+      ]     
+   }
+}

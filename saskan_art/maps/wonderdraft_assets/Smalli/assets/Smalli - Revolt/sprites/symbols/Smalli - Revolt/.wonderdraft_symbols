@@ -1,0 +1,58 @@
+{
+    "Smalli Revolt (1)": {
+        "name": "Smalli Revolt ( 1)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Revolt (2)": {
+        "name": "Smalli Revolt ( 2)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli-Symbols_121": {
+        "name": "Smalli- Symbols 121",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli-Symbols_122": {
+        "name": "Smalli- Symbols 122",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli-Symbols_123": {
+        "name": "Smalli- Symbols 123",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli-Symbols_124": {
+        "name": "Smalli- Symbols 124",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli-Symbols_125": {
+        "name": "Smalli- Symbols 125",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli-Symbols_126": {
+        "name": "Smalli- Symbols 126",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "occupied": {
+        "name": "Occupied",
+        "radius": 40,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "troops-direction": {
+        "name": "Troops-direction",
+        "radius": 24,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "troops-displacing": {
+        "name": "Troops-displacing",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "troops-march-actual": {
+        "name": "Troops-march-actual",
+        "radius": 31,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "troops-march-previous": {
+        "name": "Troops-march-previous",
+        "radius": 31,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "troops-position-actual": {
+        "name": "Troops-position-actual",
+        "radius": 27,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "troops-position-previous": {
+        "name": "Troops-position-previous",
+        "radius": 27,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "troops-reserve-actual": {
+        "name": "Troops-reserve-actual",
+        "radius": 42,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "troops-reserve-previous": {
+        "name": "Troops-reserve-previous",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "unoccupied": {
+        "name": "Unoccupied",
+        "radius": 36,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    }
+}

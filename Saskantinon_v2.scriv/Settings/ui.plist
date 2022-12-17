@@ -2273,6 +2273,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>DC1EFCCD-3667-4E9E-A6B0-197BAB352505</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>DD2EE82B-AB4D-4184-AF09-D2C6C85CB456</key>
 		<dict>
 			<key>Row</key>
@@ -3717,7 +3722,7 @@
 	<key>mainDocumentView</key>
 	<string>mainDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>-1673 22 1408 959 -1920 -40 1920 1055 </string>
+	<string>142 81 1408 959 0 0 1920 1055 </string>
 	<key>projectStatsSheet</key>
 	<dict>
 		<key>excludeAnnots</key>

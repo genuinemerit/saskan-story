@@ -1,0 +1,7 @@
+{
+    "name": "Canyon Narrow Straight Bridge",
+    "radius": 75,
+    "offset_x": 25,
+    "offset_y": 0,
+    "draw_mode": "sample_color"
+}

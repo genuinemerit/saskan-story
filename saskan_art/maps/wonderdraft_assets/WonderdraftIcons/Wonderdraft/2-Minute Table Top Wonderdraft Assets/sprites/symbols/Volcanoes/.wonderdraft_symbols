@@ -1,0 +1,16 @@
+{
+    "Mountain, volcano, huge": {
+        "name": "Mountain, Volcano, Huge",
+        "radius": 412,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Mountain, volcano, small": {
+        "name": "Mountain, Volcano, Small",
+        "radius": 144,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    }
+}

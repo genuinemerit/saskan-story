@@ -1,0 +1,30 @@
+{
+    "Smalli Egyptian (1)": {
+        "name": "Smalli Egyptian (1)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Egyptian (2)": {
+        "name": "Smalli Egyptian (2)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Egyptian (3)": {
+        "name": "Smalli Egyptian (3)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Egyptian (4)": {
+        "name": "Smalli Egyptian (4)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    }
+}

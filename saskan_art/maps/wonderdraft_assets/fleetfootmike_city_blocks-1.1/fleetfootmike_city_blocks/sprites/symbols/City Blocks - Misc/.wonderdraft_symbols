@@ -1,0 +1,114 @@
+{
+    "jetty 1": {
+        "name": "Jetty 1",
+        "radius": 29,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "jetty 2": {
+        "name": "Jetty 2",
+        "radius": 29,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "bridge 3": {
+        "name": "Bridge 3",
+        "radius": 63,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "bridge 2": {
+        "name": "Bridge 2",
+        "radius": 92,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "bridge 1": {
+        "name": "Bridge 1",
+        "radius": 92,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "jetty 4": {
+        "name": "Jetty 4",
+        "radius": 28,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "jetty 5": {
+        "name": "Jetty 5",
+        "radius": 88,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "jetty 3": {
+        "name": "Jetty 3",
+        "radius": 195,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "field 1": {
+        "name": "Field 1",
+        "radius": 98,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "market 2": {
+        "name": "Market 2",
+        "radius": 169,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "market 1": {
+        "name": "Market 1",
+        "radius": 159,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "gate": {
+        "name": "Gate",
+        "radius": 184,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "wall 2": {
+        "name": "Wall 2",
+        "radius": 172,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "wall 3": {
+        "name": "Wall 3",
+        "radius": 184,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "wall 1": {
+        "name": "Wall 1",
+        "radius": 172,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "wall 4": {
+        "name": "Wall 4",
+        "radius": 184,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    }
+}

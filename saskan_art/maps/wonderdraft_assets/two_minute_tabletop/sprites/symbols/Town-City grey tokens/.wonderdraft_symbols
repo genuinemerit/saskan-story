@@ -1,0 +1,359 @@
+{
+    "Building 12, grey": {
+        "name": "Building 12, Grey",
+        "radius": 101,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 17, grey": {
+        "name": "Building 17, Grey",
+        "radius": 125,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 7, grey": {
+        "name": "Building 7, Grey",
+        "radius": 136,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 3, grey": {
+        "name": "Building 3, Grey",
+        "radius": 108,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 5, grey": {
+        "name": "Building 5, Grey",
+        "radius": 131,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 25, grey": {
+        "name": "Building 25, Grey",
+        "radius": 148,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 36, grey": {
+        "name": "Building 36, Grey",
+        "radius": 85,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 10, grey": {
+        "name": "Building 10, Grey",
+        "radius": 117,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 16, grey": {
+        "name": "Building 16, Grey",
+        "radius": 121,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 24, grey": {
+        "name": "Building 24, Grey",
+        "radius": 112,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Tent 2, grey": {
+        "name": "Tent 2, Grey",
+        "radius": 102,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Tower 1, grey": {
+        "name": "Tower 1, Grey",
+        "radius": 87,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 30, grey": {
+        "name": "Building 30, Grey",
+        "radius": 86,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 31, grey": {
+        "name": "Building 31, Grey",
+        "radius": 133,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 34, grey": {
+        "name": "Building 34, Grey",
+        "radius": 106,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 26, grey": {
+        "name": "Building 26, Grey",
+        "radius": 86,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 19, grey": {
+        "name": "Building 19, Grey",
+        "radius": 136,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Tent 3, grey": {
+        "name": "Tent 3, Grey",
+        "radius": 63,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 21, grey": {
+        "name": "Building 21, Grey",
+        "radius": 94,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 18, grey": {
+        "name": "Building 18, Grey",
+        "radius": 90,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 1, grey": {
+        "name": "Building 1, Grey",
+        "radius": 129,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Arena, murder tamborine, grey": {
+        "name": "Arena, Murder Tamborine, Grey",
+        "radius": 298,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 27, grey": {
+        "name": "Building 27, Grey",
+        "radius": 98,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 8, grey": {
+        "name": "Building 8, Grey",
+        "radius": 87,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 32, grey": {
+        "name": "Building 32, Grey",
+        "radius": 116,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Shack 3, grey": {
+        "name": "Shack 3, Grey",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 15, grey": {
+        "name": "Building 15, Grey",
+        "radius": 110,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 33, grey": {
+        "name": "Building 33, Grey",
+        "radius": 88,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 29, grey": {
+        "name": "Building 29, Grey",
+        "radius": 99,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 2, grey": {
+        "name": "Building 2, Grey",
+        "radius": 90,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Keep, grey": {
+        "name": "Keep, Grey",
+        "radius": 325,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 6, grey": {
+        "name": "Building 6, Grey",
+        "radius": 91,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Shack 4, grey": {
+        "name": "Shack 4, Grey",
+        "radius": 61,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 13, grey": {
+        "name": "Building 13, Grey",
+        "radius": 131,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Tent 1, grey": {
+        "name": "Tent 1, Grey",
+        "radius": 62,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 23, grey": {
+        "name": "Building 23, Grey",
+        "radius": 172,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Shack 6, grey": {
+        "name": "Shack 6, Grey",
+        "radius": 72,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Shrine, grey": {
+        "name": "Shrine, Grey",
+        "radius": 108,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 20, grey": {
+        "name": "Building 20, Grey",
+        "radius": 124,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Tower 2, grey": {
+        "name": "Tower 2, Grey",
+        "radius": 116,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 37, grey": {
+        "name": "Building 37, Grey",
+        "radius": 86,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Shack 5, grey": {
+        "name": "Shack 5, Grey",
+        "radius": 53,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 35, grey": {
+        "name": "Building 35, Grey",
+        "radius": 140,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Wagon 1, grey": {
+        "name": "Wagon 1, Grey",
+        "radius": 58,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 11, grey": {
+        "name": "Building 11, Grey",
+        "radius": 119,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 14, grey": {
+        "name": "Building 14, Grey",
+        "radius": 120,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 9, grey": {
+        "name": "Building 9, Grey",
+        "radius": 151,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Tent 4, grey": {
+        "name": "Tent 4, Grey",
+        "radius": 63,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Building 22, grey": {
+        "name": "Building 22, Grey",
+        "radius": 105,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Shack 2, grey": {
+        "name": "Shack 2, Grey",
+        "radius": 55,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Shack 1, grey": {
+        "name": "Shack 1, Grey",
+        "radius": 65,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    }
+}

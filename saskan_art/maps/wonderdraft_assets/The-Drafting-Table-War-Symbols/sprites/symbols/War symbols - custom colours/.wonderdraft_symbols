@@ -1,0 +1,72 @@
+{
+    "occupied-custom": {
+        "name": "Occupied-custom",
+        "radius": 40,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "troops-direction-custom": {
+        "name": "Troops-direction-custom",
+        "radius": 24,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "troops-displacing-custom": {
+        "name": "Troops-displacing-custom",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "troops-march-actual-custom": {
+        "name": "Troops-march-actual-custom",
+        "radius": 31,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "troops-march-previous-custom": {
+        "name": "Troops-march-previous-custom",
+        "radius": 31,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "troops-position-actual-custom": {
+        "name": "Troops-position-actual-custom",
+        "radius": 27,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "troops-position-previous-custom": {
+        "name": "Troops-position-previous-custom",
+        "radius": 27,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "troops-reserve-actual-custom": {
+        "name": "Troops-reserve-actual-custom",
+        "radius": 42,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "troops-reserve-previous-custom": {
+        "name": "Troops-reserve-previous-custom",
+        "radius": 45,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "unoccupied-custom": {
+        "name": "Unoccupied-custom",
+        "radius": 36,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    }
+}

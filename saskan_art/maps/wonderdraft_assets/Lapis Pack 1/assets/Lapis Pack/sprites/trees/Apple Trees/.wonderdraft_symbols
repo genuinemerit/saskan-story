@@ -1,0 +1,7 @@
+{
+    "name": "Apple Trees",
+    "radius": 41,
+    "offset_x": 0,
+    "offset_y": 0,
+    "draw_mode": "sample_color"
+}

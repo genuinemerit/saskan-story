@@ -1,0 +1,7 @@
+{
+    "name": "2-Min Hills",
+    "radius": 150,
+    "offset_x": 0,
+    "offset_y": 0,
+    "draw_mode": "sample_color"
+}

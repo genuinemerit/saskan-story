@@ -1,0 +1,7 @@
+{
+    "name": "Willow Trees",
+    "radius": 40,
+    "offset_x": 0,
+    "offset_y": -45,
+    "draw_mode": "sample_color"
+}

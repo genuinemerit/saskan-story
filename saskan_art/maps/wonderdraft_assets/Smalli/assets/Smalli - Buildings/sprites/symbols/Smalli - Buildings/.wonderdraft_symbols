@@ -1,0 +1,394 @@
+{
+    "Smalli Building (1)": {
+        "name": "Smalli Building ( 1)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Building (10)": {
+        "name": "Smalli Building ( 10)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Building (11)": {
+        "name": "Smalli Building ( 11)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Building (12)": {
+        "name": "Smalli Building ( 12)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Building (2)": {
+        "name": "Smalli Building ( 2)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Building (3)": {
+        "name": "Smalli Building ( 3)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Building (4)": {
+        "name": "Smalli Building ( 4)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Building (5)": {
+        "name": "Smalli Building ( 5)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Building (6)": {
+        "name": "Smalli Building ( 6)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Building (7)": {
+        "name": "Smalli Building ( 7)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Building (8)": {
+        "name": "Smalli Building ( 8)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Building (9)": {
+        "name": "Smalli Building ( 9)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Building (13)": {
+        "name": "Smalli Building ( 13)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Roman Building (1)": {
+        "name": "Smalli Roman Building ( 1)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Roman Building (2)": {
+        "name": "Smalli Roman Building ( 2)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Tent (1)": {
+        "name": "Smalli Tent ( 1)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Tent (2)": {
+        "name": "Smalli Tent ( 2)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Tent (3)": {
+        "name": "Smalli Tent ( 3)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Tower (1)": {
+        "name": "Smalli Tower ( 1)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Tower (2)": {
+        "name": "Smalli Tower ( 2)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Tower (3)": {
+        "name": "Smalli Tower ( 3)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Tower (4)": {
+        "name": "Smalli Tower ( 4)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Wall (1)": {
+        "name": "Smalli Wall ( 1)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Wall (2)": {
+        "name": "Smalli Wall ( 2)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Wall (3)": {
+        "name": "Smalli Wall ( 3)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Wall (4)": {
+        "name": "Smalli Wall ( 4)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Bridge (1)": {
+        "name": "Smalli Bridge ( 1)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Door": {
+        "name": "Smalli Door",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Hole (1)": {
+        "name": "Smalli Hole ( 1)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Hole (2)": {
+        "name": "Smalli Hole ( 2)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Road (1)": {
+        "name": "Smalli Road ( 1)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Sign (1)": {
+        "name": "Smalli Sign ( 1)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Sign (2)": {
+        "name": "Smalli Sign ( 2)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Sign (3)": {
+        "name": "Smalli Sign ( 3)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Stairs (1)": {
+        "name": "Smalli Stairs ( 1)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Stairs (2)": {
+        "name": "Smalli Stairs ( 2)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Wall (10)": {
+        "name": "Smalli Wall ( 10)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Wall (12)": {
+        "name": "Smalli Wall ( 12)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Wall (5)": {
+        "name": "Smalli Wall ( 5)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Wall (6)": {
+        "name": "Smalli Wall ( 6)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Wall (7)": {
+        "name": "Smalli Wall ( 7)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Wall (8)": {
+        "name": "Smalli Wall ( 8)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Wall (9)": {
+        "name": "Smalli Wall ( 9)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Well (1)": {
+        "name": "Smalli Well ( 1)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Well (2)": {
+        "name": "Smalli Well ( 2)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Tent (4)": {
+        "name": "Smalli Tent ( 4)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Tower (5)": {
+        "name": "Smalli Tower ( 5)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Castle (1)": {
+        "name": "Smalli Castle ( 1)",
+        "radius": 150,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Door (1)": {
+        "name": "Smalli Door ( 1)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Door (2)": {
+        "name": "Smalli Door ( 2)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Window (1)": {
+        "name": "Smalli Window ( 1)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Window (2)": {
+        "name": "Smalli Window ( 2)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Window (3)": {
+        "name": "Smalli Window ( 3)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Window (4)": {
+        "name": "Smalli Window ( 4)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Window (5)": {
+        "name": "Smalli Window ( 5)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Window (6)": {
+        "name": "Smalli Window ( 6)",
+        "radius": 75,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    }
+}

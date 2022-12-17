@@ -1,0 +1,107 @@
+{
+    "tree": {
+        "name": "Tree",
+        "radius": 165,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "tree2": {
+        "name": "Tree 2",
+        "radius": 169,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "tree3": {
+        "name": "Tree 3",
+        "radius": 160,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "tree4": {
+        "name": "Tree 4",
+        "radius": 163,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "tree5": {
+        "name": "Tree 5",
+        "radius": 152,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "tree6": {
+        "name": "Tree 6",
+        "radius": 172,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "tree7": {
+        "name": "Tree 7",
+        "radius": 169,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "tree8": {
+        "name": "Tree 8",
+        "radius": 159,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "tree9": {
+        "name": "Tree 9",
+        "radius": 161,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "deadtree": {
+        "name": "Deadtree",
+        "radius": 168,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "deadtree2": {
+        "name": "Deadtree 2",
+        "radius": 165,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "pine": {
+        "name": "Pine",
+        "radius": 156,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "pine2": {
+        "name": "Pine 2",
+        "radius": 167,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "pine3": {
+        "name": "Pine 3",
+        "radius": 171,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "pine4": {
+        "name": "Pine 4",
+        "radius": 157,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Smalli Plague  (1)": {
+        "name": "Smalli Plague ( 1)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Plague  (2)": {
+        "name": "Smalli Plague ( 2)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors_2"
+    },
+    "Smalli Plague  (3)": {
+        "name": "Smalli Plague ( 3)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Plague  (4)": {
+        "name": "Smalli Plague ( 4)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "Smalli Plague  (5)": {
+        "name": "Smalli Plague ( 5)",
+        "radius": 38,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    }
+}

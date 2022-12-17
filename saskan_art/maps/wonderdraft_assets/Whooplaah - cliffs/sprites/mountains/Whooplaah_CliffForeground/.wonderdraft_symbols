@@ -1,0 +1,7 @@
+{
+    "name": "Cliff Foreground",
+    "radius": 75,
+    "offset_x": 75,
+    "offset_y": -50,
+    "draw_mode": "sample_color"
+}

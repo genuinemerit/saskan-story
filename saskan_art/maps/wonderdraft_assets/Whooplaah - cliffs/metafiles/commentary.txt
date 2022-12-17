@@ -1,0 +1,19 @@
+Hi. Thanks for downloading my work. I hope that you enjoy it.
+
+The content of this package is designed for use with Wonderdraft, which can be purchased here: https://www.wonderdraft.net/
+For a video demonstration of this package in use, go here:
+
+NOTES ON USE:
+A majority of the assets in this package are available as Mountains. Each shape of asset has its own entry under Symbols --> Mountains 
+
+To cycle between assets of the same shape use "SHIFT + Mouse Wheel"
+
+To flip assets, hold "ALT" before placing.
+
+To rotate non-mountain symbols use "<" and ">" keys.
+
+Assets in this package use the "sample color" feature of Wonderdraft. The location used to sample can be observed as where the mouse pointer is located relative to
+that asset's shape. A rule-of-thumb is that the sample location is on the border of the cliff. This allows the asset to have a color that is different from both
+the upper and lower borders of the cliff. See video link above for details.
+
+

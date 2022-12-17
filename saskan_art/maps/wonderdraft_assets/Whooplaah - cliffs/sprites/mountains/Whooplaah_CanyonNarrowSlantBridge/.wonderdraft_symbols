@@ -1,0 +1,7 @@
+{
+    "name": "Canyon Narrow Slant Bridge L",
+    "radius": 75,
+    "offset_x": 35,
+    "offset_y": 20,
+    "draw_mode": "sample_color"
+}

@@ -1,0 +1,30 @@
+{
+    "dead tree": {
+        "name": "Dead Tree",
+        "radius": 165,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "dead tree2": {
+        "name": "Dead Tree 2",
+        "radius": 168,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "dead tree - snow": {
+        "name": "Dead Tree - Snow",
+        "radius": 168,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "dead tree2 - snow": {
+        "name": "Dead Tree 2 - Snow",
+        "radius": 165,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "01": {
+        "name": "01",
+        "radius": 24,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "02": {
+        "name": "02",
+        "radius": 24,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "03": {
+        "name": "03",
+        "radius": 24,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "04": {
+        "name": "04",
+        "radius": 24,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "05": {
+        "name": "05",
+        "radius": 24,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "06": {
+        "name": "06",
+        "radius": 24,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "07": {
+        "name": "07",
+        "radius": 24,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "08": {
+        "name": "08",
+        "radius": 24,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "16": {
+        "name": "16",
+        "radius": 24,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "17": {
+        "name": "17",
+        "radius": 24,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "18": {
+        "name": "18",
+        "radius": 24,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "19": {
+        "name": "19",
+        "radius": 24,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "20": {
+        "name": "20",
+        "radius": 24,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "21": {
+        "name": "21",
+        "radius": 24,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "22": {
+        "name": "22",
+        "radius": 24,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "23": {
+        "name": "23",
+        "radius": 24,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "24": {
+        "name": "24",
+        "radius": 24,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "25": {
+        "name": "25",
+        "radius": 24,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    }
+}

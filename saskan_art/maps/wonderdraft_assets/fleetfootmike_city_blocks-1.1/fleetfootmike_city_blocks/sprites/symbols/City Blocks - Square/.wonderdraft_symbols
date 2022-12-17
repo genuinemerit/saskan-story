@@ -1,0 +1,205 @@
+{
+    "square 15": {
+        "name": "Square 15",
+        "radius": 267,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "square 14": {
+        "name": "Square 14",
+        "radius": 267,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "square 16": {
+        "name": "Square 16",
+        "radius": 267,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "square 13": {
+        "name": "Square 13",
+        "radius": 267,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "square 8": {
+        "name": "Square 8",
+        "radius": 269,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "square 9": {
+        "name": "Square 9",
+        "radius": 269,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "square 12": {
+        "name": "Square 12",
+        "radius": 267,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "square 10": {
+        "name": "Square 10",
+        "radius": 269,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "square 11": {
+        "name": "Square 11",
+        "radius": 267,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "market 2": {
+        "name": "Market 2",
+        "radius": 269,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "market 1": {
+        "name": "Market 1",
+        "radius": 269,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "square 7": {
+        "name": "Square 7",
+        "radius": 269,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "square 6": {
+        "name": "Square 6",
+        "radius": 269,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "square 4": {
+        "name": "Square 4",
+        "radius": 269,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "square 5": {
+        "name": "Square 5",
+        "radius": 269,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "square 1": {
+        "name": "Square 1",
+        "radius": 269,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "square 2": {
+        "name": "Square 2",
+        "radius": 269,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "square 3": {
+        "name": "Square 3",
+        "radius": 269,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "temple 1": {
+        "name": "Temple 1",
+        "radius": 269,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "noble 1": {
+        "name": "Noble 1",
+        "radius": 269,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "noble 2": {
+        "name": "Noble 2",
+        "radius": 269,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "sparse 8": {
+        "name": "Sparse 8",
+        "radius": 237,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "sparse 3": {
+        "name": "Sparse 3",
+        "radius": 260,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "sparse 2": {
+        "name": "Sparse 2",
+        "radius": 266,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "sparse 1": {
+        "name": "Sparse 1",
+        "radius": 262,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "sparse 5": {
+        "name": "Sparse 5",
+        "radius": 257,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "sparse 4": {
+        "name": "Sparse 4",
+        "radius": 260,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "sparse 6": {
+        "name": "Sparse 6",
+        "radius": 224,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    },
+    "sparse 7": {
+        "name": "Sparse 7",
+        "radius": 225,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "sample_color"
+    }
+}

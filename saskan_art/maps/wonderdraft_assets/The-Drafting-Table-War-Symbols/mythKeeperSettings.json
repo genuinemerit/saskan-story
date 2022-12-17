@@ -1,0 +1,29 @@
+{
+   "basicInformation": {
+      "name": "The Drafting Table - War symbols",
+      "version": "1.0",
+      "author":{
+         "exists": true,
+         "name": "The Drafting Table",
+         "url": "https://www.patreon.com/draftingtable",
+         "donationURL": "https://www.patreon.com/draftingtable"
+      },
+      "tagLine": "Tactical battle symbols, for all your miniature warfare!",
+      "commercialUse": true,
+      "commercialURL": false,
+      "license": {
+         "hasLicense": true,
+         "type": "CC BY 4.0",
+         "localFile": false,
+         "externalLink": true,
+         "commentary": true
+      },
+      "tags": [
+         "texture",
+         "tints",
+         "stylized",
+         "colorable",
+         "non-colorable"
+      ]     
+   }
+}

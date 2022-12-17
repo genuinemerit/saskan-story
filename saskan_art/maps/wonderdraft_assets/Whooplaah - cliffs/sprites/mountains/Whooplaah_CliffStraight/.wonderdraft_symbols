@@ -1,0 +1,7 @@
+{
+    "name": "Cliff Straight",
+    "radius": 94,
+    "offset_x": 0,
+    "offset_y": -20,
+    "draw_mode": "sample_color"
+}

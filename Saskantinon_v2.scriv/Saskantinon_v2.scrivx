@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="5A803D31-9160-43EE-82EB-71A3F93BB7C1" Version="2.0" Creator="SCRMAC-3.2.3-14868" Device="Davids-MacBook-Pro" Author="David Adamson" Modified="2022-12-13 07:17:33 -0500" ModID="08A33EE7-33AE-476A-A3CC-13281FE18168">
+<ScrivenerProject Identifier="5A803D31-9160-43EE-82EB-71A3F93BB7C1" Version="2.0" Creator="SCRMAC-3.2.3-14868" Device="Davids-MacBook-Pro" Author="David Adamson" Modified="2022-12-16 19:37:43 -0500" ModID="FA089AE8-7F8B-449F-83FF-75DE6C9E6ADC">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2020-05-17 04:20:59 -0400" Modified="2022-12-02 11:05:54 -0500">
             <Title>Novel Format</Title>
@@ -472,8 +472,8 @@
                                         <TextSelection>840,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="D8C0CA2D-5527-4E3F-824A-661E93A93D05" Type="Text" Created="2022-06-11 08:44:39 -0400" Modified="2022-12-13 07:11:44 -0500">
-                                    <Title>Legends of Massachawa</Title>
+                                <BinderItem UUID="D8C0CA2D-5527-4E3F-824A-661E93A93D05" Type="Text" Created="2022-06-11 08:44:39 -0400" Modified="2022-12-16 11:08:20 -0500">
+                                    <Title>The Great Auction</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <IconFileName>Book (Red Book)</IconFileName>
@@ -508,7 +508,17 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>605,0</TextSelection>
+                                        <TextSelection>301,15</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="DC1EFCCD-3667-4E9E-A6B0-197BAB352505" Type="Text" Created="2022-06-11 08:44:39 -0400" Modified="2022-12-16 11:26:33 -0500">
+                                    <Title>Into the Nye Lands</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <IconFileName>Book (Red Book)</IconFileName>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1558,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -522,33 +532,33 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="78AA6F3E-B1B3-400D-A4DD-A86774633E2D" Type="Text" Created="2021-03-28 16:52:49 -0400" Modified="2022-06-11 09:39:37 -0400">
-                                    <Title>Ch 9 - Summary</Title>
+                                <BinderItem UUID="78AA6F3E-B1B3-400D-A4DD-A86774633E2D" Type="Text" Created="2021-03-28 16:52:49 -0400" Modified="2022-12-16 11:50:22 -0500">
+                                    <Title>The Splendid Boys</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1088,0</TextSelection>
+                                        <TextSelection>20,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="73682172-F689-4DCD-AC3F-98C62E88E1D3" Type="Text" Created="2022-06-11 09:39:54 -0400" Modified="2022-06-11 09:41:53 -0400">
+                                <BinderItem UUID="73682172-F689-4DCD-AC3F-98C62E88E1D3" Type="Text" Created="2022-06-11 09:39:54 -0400" Modified="2022-12-16 11:50:22 -0500">
                                     <Title>Cool Waters Run Deep</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <IconFileName>Book (Red Book)</IconFileName>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>349,0</TextSelection>
+                                        <TextSelection>36,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="A4F7BB17-F906-448D-95E3-79B6046A1BC0" Type="Text" Created="2022-06-11 09:42:00 -0400" Modified="2022-06-11 09:45:37 -0400">
+                                <BinderItem UUID="A4F7BB17-F906-448D-95E3-79B6046A1BC0" Type="Text" Created="2022-06-11 09:42:00 -0400" Modified="2022-12-16 11:50:22 -0500">
                                     <Title>A Deep Dive</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <IconFileName>Book (Red Book)</IconFileName>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>488,0</TextSelection>
+                                        <TextSelection>27,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="94E30D87-DDE4-4F13-A1A1-F07BB65FD4FA" Type="Folder" Created="2018-08-15 00:47:53 -0400" Modified="2019-10-06 03:54:24 -0400">
@@ -559,17 +569,6 @@
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
-                                    <Children>
-                                        <BinderItem UUID="4BA2485E-F565-4328-90E7-24168FC3EB22" Type="Text" Created="2018-08-15 00:47:53 -0400" Modified="2018-08-15 00:47:53 -0400">
-                                            <Title>Scene</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -582,21 +581,21 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <CorkboardAndOutliner>
-                                <SelectedSubdocumentUUIDs>4BA2485E-F565-4328-90E7-24168FC3EB22</SelectedSubdocumentUUIDs>
+                                <SelectedSubdocumentUUIDs></SelectedSubdocumentUUIDs>
                                 <OutlinerExpandedState>
                                     <ItemID>94E30D87-DDE4-4F13-A1A1-F07BB65FD4FA</ItemID>
                                     <ItemID>7C6EE45C-CE62-4C74-9783-A46BA8FAD09E</ItemID>
                                 </OutlinerExpandedState>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem UUID="05FF8C64-0D91-414D-AF2E-418D16A93993" Type="Text" Created="2022-06-11 09:45:37 -0400" Modified="2022-06-11 10:31:20 -0400">
+                                <BinderItem UUID="05FF8C64-0D91-414D-AF2E-418D16A93993" Type="Text" Created="2022-06-11 09:45:37 -0400" Modified="2022-12-16 11:27:26 -0500">
                                     <Title>Blessed Fire</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <IconFileName>Book (Red Book)</IconFileName>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>373,0</TextSelection>
+                                        <TextSelection>66,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="5862D5DB-746B-4CCD-A2A5-19685F8F4C44" Type="Text" Created="2020-11-15 08:01:05 -0500" Modified="2022-12-02 11:05:54 -0500">
@@ -5747,6 +5746,15 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="4BA2485E-F565-4328-90E7-24168FC3EB22" Type="Text" Created="2018-08-15 00:47:53 -0400" Modified="2018-08-15 00:47:53 -0400">
+                    <Title>Scene</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -5823,14 +5831,14 @@
     </ProjectBookmarks>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 08:24:39 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2022-12-14 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="83" Characters="559" Date="2022-12-13 06:53:45 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2022-12-17 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="71" Characters="412" Date="2022-12-16 19:36:57 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2022-12-13 00:00:00 -0500">
-        <DraftWordCount>59</DraftWordCount>
-        <DraftCharCount>453</DraftCharCount>
+    <RecentWritingHistory Date="2022-12-16 00:00:00 -0500">
+        <DraftWordCount>41</DraftWordCount>
+        <DraftCharCount>231</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>38</OtherCharCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <PrintSettings PaperSize="611.99999,792.0" LeftMargin="72.0001" RightMargin="72.0001" TopMargin="90.0002" BottomMargin="90.0002" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"/>
